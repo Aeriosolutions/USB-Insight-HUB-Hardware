@@ -1,0 +1,1978 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generado por Microsoft Visio, SVG Export usb-insight-hub-block-diagram-landscape.svg 3 port B0 landscape -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="18.8569in" height="12.2828in"
+		viewBox="0 0 1357.69 884.359" xml:space="preserve" color-interpolation-filters="sRGB" class="st49">
+	<v:documentProperties v:langID="1033" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#ebf1df;stroke:#000000;stroke-dasharray:2.25,4.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st3 {fill:#bfbfbf;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st4 {marker-end:url(#mrkr5-14);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st5 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.22935779816514}
+		.st6 {marker-start:url(#mrkr5-20);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st7 {fill:#92cddc;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st8 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st9 {fill:#205867;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st10 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st11 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st12 {fill:#000000;font-family:Calibri;font-size:0.75em;font-weight:bold}
+		.st13 {marker-start:url(#mrkr10-79);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st14 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.34246575342466}
+		.st15 {fill:#f9c499;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st16 {fill:#ffffff;font-family:Calibri;font-size:1.00001em;font-weight:bold}
+		.st17 {font-size:1em}
+		.st18 {fill:#ffffff;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st19 {fill:#000000;font-family:Calibri;font-size:0.833336em}
+		.st20 {fill:#000000;font-family:Calibri;font-size:0.833336em;font-weight:bold}
+		.st21 {fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st22 {fill:#ffffff;font-family:Calibri;font-size:0.75em;font-weight:bold}
+		.st23 {fill:#000000;font-family:Calibri;font-size:1.00001em;font-weight:bold}
+		.st24 {marker-end:url(#mrkr5-14);marker-start:url(#mrkr5-20);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st25 {fill:#000000;font-family:Calibri;font-size:0.666664em}
+		.st26 {fill:#000000;font-family:Calibri;font-size:0.916672em;font-weight:bold}
+		.st27 {fill:#000000;font-family:Calibri;font-size:1.00001em}
+		.st28 {fill:none;stroke:#000000;stroke-dasharray:5.25,3.75;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st29 {fill:none;stroke:#000000;stroke-dasharray:0.75,1.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st30 {marker-end:url(#mrkr10-401);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st31 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st32 {fill:#c4d6a0;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st33 {fill:#000000;font-family:Calibri;font-size:0.75em}
+		.st34 {fill:#000000;font-family:Arial;font-size:0.833336em;font-weight:bold}
+		.st35 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st36 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st37 {marker-end:url(#mrkr5-816);marker-start:url(#mrkr5-814);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st38 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.29411764705882}
+		.st39 {fill:none;stroke:#000000;stroke-dasharray:3.5,2.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st40 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st41 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st42 {fill:#000000;font-family:Calibri;font-size:0.666664em;font-weight:bold}
+		.st43 {fill:#ffffff;font-family:Calibri;font-size:0.666664em}
+		.st44 {fill:#0070c0;stroke:#002060;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st45 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st46 {stroke:#000000;stroke-dasharray:0.75,1.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st47 {fill:#000000;font-family:Calibri;font-size:1.08334em;font-weight:bold}
+		.st48 {fill:#000000;font-family:Calibri;font-size:1.99999em;font-weight:bold}
+		.st49 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend5">
+			<path d="M 2 1 L 0 0 L 1.98117 -0.993387 C 1.67173 -0.364515 1.67301 0.372641 1.98465 1.00043 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr5-14" class="st5" v:arrowType="5" v:arrowSize="2" v:setback="7.63" refX="-7.63" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(-4.36,-4.36) "/>
+		</marker>
+		<marker id="mrkr5-20" class="st5" v:arrowType="5" v:arrowSize="2" v:setback="7.15" refX="7.15" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(4.36) "/>
+		</marker>
+		<g id="lend10">
+			<path
+					d="M 0 0.75 C -0.414214 0.75 -0.75 0.414214 -0.75 0 -0.75 -0.414214 -0.414214 -0.75 0 -0.75 0.414214 -0.75 0.75 -0.414214 0.75 0 0.75 0.414214 0.414214 0.75 0 0.75 Z "
+					style="stroke:none"/>
+		</g>
+		<marker id="mrkr10-79" class="st14" v:arrowType="10" v:arrowSize="0" v:setback="1.71" refX="1.71" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend10" transform="scale(2.92) "/>
+		</marker>
+		<marker id="mrkr10-401" class="st5" v:arrowType="10" v:arrowSize="2" v:setback="3.27" refX="-3.27" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend10" transform="scale(-4.36,-4.36) "/>
+		</marker>
+		<marker id="mrkr5-814" class="st38" v:arrowType="5" v:arrowSize="1" v:setback="5.47" refX="5.47" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(3.4) "/>
+		</marker>
+		<marker id="mrkr5-816" class="st38" v:arrowType="5" v:arrowSize="1" v:setback="5.95" refX="-5.95" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(-3.4,-3.4) "/>
+		</marker>
+	</defs>
+	<g v:mID="46" v:index="2" v:groupContext="foregroundPage">
+		<title>3 port B0 landscape</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape476-1" v:mID="476" v:groupContext="shape" transform="translate(18.375,-36.8504)">
+			<title>Hoja.476</title>
+			<rect x="0" y="76.4853" width="1296.33" height="807.874" class="st1"/>
+		</g>
+		<g id="shape410-3" v:mID="410" v:groupContext="shape" transform="translate(149.555,-548.92)">
+			<title>Hoja.410</title>
+			<path d="M0 884.36 L835.37 884.36 L835.37 597.06 L0 597.06 L0 884.36 Z" class="st2"/>
+		</g>
+		<g id="shape404-5" v:mID="404" v:groupContext="shape" transform="translate(149.235,-44.3533)">
+			<title>Hoja.404</title>
+			<path d="M0 884.36 L835.37 884.36 L835.37 409.97 L0 409.97 L0 884.36 Z" class="st2"/>
+		</g>
+		<g id="shape263-7" v:mID="263" v:groupContext="shape" transform="translate(511.003,-54.2745)">
+			<title>Hoja.263</title>
+			<rect x="0" y="790.222" width="414.398" height="94.1376" class="st3"/>
+		</g>
+		<g id="shape219-9" v:mID="219" v:groupContext="shape" transform="translate(-23.3876,734.789) rotate(-90)">
+			<title>Hoja.219</title>
+			<path d="M0 884.36 L60.75 884.36" class="st4"/>
+		</g>
+		<g id="shape220-15" v:mID="220" v:groupContext="shape" transform="translate(1756.67,668.313) rotate(90)">
+			<title>Hoja.220</title>
+			<path d="M5.36 884.36 L5.72 884.36 L66.81 884.36" class="st6"/>
+		</g>
+		<g id="shape221-21" v:mID="221" v:groupContext="shape" transform="translate(1767.44,735.124) rotate(90) scale(-1,1)">
+			<title>Hoja.221</title>
+			<path d="M5.36 884.36 L5.72 884.36 L66.81 884.36" class="st6"/>
+		</g>
+		<g id="shape259-26" v:mID="259" v:groupContext="shape" transform="translate(1732.33,734.789) rotate(90) scale(-1,1)">
+			<title>Hoja.259</title>
+			<path d="M0 884.36 L60.75 884.36" class="st4"/>
+		</g>
+		<g id="shape228-31" v:mID="228" v:groupContext="shape" transform="translate(1607.61,735.124) rotate(90) scale(-1,1)">
+			<title>Hoja.228</title>
+			<path d="M0 884.36 L134.22 884.36" class="st4"/>
+		</g>
+		<g id="shape144-36" v:mID="144" v:groupContext="shape" transform="translate(-278.068,735.124) rotate(-90)">
+			<title>Hoja.144</title>
+			<path d="M0 884.36 L208.3 884.36" class="st4"/>
+		</g>
+		<g id="shape145-41" v:mID="145" v:groupContext="shape" transform="translate(1501.99,520.825) rotate(90)">
+			<title>Hoja.145</title>
+			<path d="M5.36 884.36 L5.72 884.36 L214.3 884.36" class="st6"/>
+		</g>
+		<g id="shape146-46" v:mID="146" v:groupContext="shape" transform="translate(1512.76,735.124) rotate(90) scale(-1,1)">
+			<title>Hoja.146</title>
+			<path d="M5.36 884.36 L5.72 884.36 L214.01 884.36" class="st6"/>
+		</g>
+		<g id="shape223-51" v:mID="223" v:groupContext="shape" transform="translate(1480.05,735.124) rotate(90) scale(-1,1)">
+			<title>Hoja.223</title>
+			<path d="M0 884.36 L208.29 884.36" class="st4"/>
+		</g>
+		<g id="shape1-56" v:mID="1" v:groupContext="shape" transform="translate(1069.66,-112.11)">
+			<title>Hoja.1</title>
+			<rect x="0" y="671.761" width="164.716" height="212.598" class="st7"/>
+		</g>
+		<g id="shape2-58" v:mID="2" v:groupContext="shape" transform="translate(1059.17,-289.13)">
+			<title>Hoja.2</title>
+			<path d="M0 884.36 L49.62 884.36" class="st8"/>
+		</g>
+		<g id="shape3-61" v:mID="3" v:groupContext="shape" transform="translate(1080.52,-273.539)">
+			<title>Hoja.3</title>
+			<rect x="0" y="853.178" width="51.0236" height="31.1811" class="st1"/>
+		</g>
+		<g id="shape5-63" v:mID="5" v:groupContext="shape" transform="translate(300.518,-194.145)">
+			<title>Hoja.5</title>
+			<rect x="0" y="664.764" width="70.8661" height="219.595" class="st9"/>
+		</g>
+		<g id="shape6-65" v:mID="6" v:groupContext="shape" transform="translate(371.36,-378.482)">
+			<title>Hoja.6</title>
+			<path d="M0 884.36 L599.62 884.36" class="st10"/>
+		</g>
+		<g id="shape7-68" v:mID="7" v:groupContext="shape" transform="translate(371.36,-367.143)">
+			<title>Hoja.7</title>
+			<path d="M0 884.36 L599.62 884.36" class="st10"/>
+		</g>
+		<g id="shape8-71" v:mID="8" v:groupContext="shape" transform="translate(371.517,-378.482)">
+			<title>Hoja.8</title>
+			<desc>DP1/DN1</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.4046" cy="880.657" width="44.81" height="7.4053"/>
+			<rect x="0" y="876.954" width="44.8093" height="7.4053" class="st11"/>
+			<text x="4" y="883.36" class="st12" v:langID="12298"><v:paragraph/><v:tabList/>DP1/DN1</text>		</g>
+		<g id="shape10-74" v:mID="10" v:groupContext="shape" transform="translate(441.838,-389.82)">
+			<title>Hoja.10</title>
+			<path d="M1.28 884.36 L1.64 884.36 L11.34 884.36" class="st13"/>
+		</g>
+		<g id="shape11-80" v:mID="11" v:groupContext="shape" transform="translate(450.862,-389.82)">
+			<title>Hoja.11</title>
+			<path d="M0 884.36 L520.97 884.36" class="st10"/>
+		</g>
+		<g id="shape12-83" v:mID="12" v:groupContext="shape" transform="translate(1326.22,344.275) rotate(90.0215)">
+			<title>Hoja.12</title>
+			<path d="M0 884.36 L295.25 884.36" class="st10"/>
+		</g>
+		<g id="shape13-86" v:mID="13" v:groupContext="shape" transform="translate(371.486,-306.872)">
+			<title>Hoja.13</title>
+			<path d="M0 884.36 L599.77 884.36" class="st10"/>
+		</g>
+		<g id="shape14-89" v:mID="14" v:groupContext="shape" transform="translate(371.486,-295.534)">
+			<title>Hoja.14</title>
+			<path d="M0 884.36 L599.77 884.36" class="st10"/>
+		</g>
+		<g id="shape17-92" v:mID="17" v:groupContext="shape" transform="translate(441.838,-318.211)">
+			<title>Hoja.17</title>
+			<path d="M1.28 884.36 L1.64 884.36 L529.99 884.36" class="st13"/>
+		</g>
+		<g id="shape20-97" v:mID="20" v:groupContext="shape" transform="translate(416.326,-570.18)">
+			<title>Hoja.20</title>
+			<rect x="0" y="759.619" width="522.358" height="124.74" class="st15"/>
+		</g>
+		<g id="shape21-99" v:mID="21" v:groupContext="shape" transform="translate(300.873,-278.53)">
+			<title>Hoja.21</title>
+			<desc>USB3.0 HUB 4 ports</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="860.583" width="70.87" height="47.5528"/>
+			<rect x="0" y="836.806" width="70.8661" height="47.5528" class="st11"/>
+			<text x="17.63" y="849.78" class="st16" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>USB3.0 <v:newlineChar/><tspan
+						x="24.37" dy="1.2em" class="st17">HUB<v:newlineChar/></tspan><tspan x="17.98" dy="1.2em" class="st17">4 ports</tspan></text>		</g>
+		<g id="shape22-104" v:mID="22" v:groupContext="shape" transform="translate(426.071,-497.819)">
+			<title>Hoja.22</title>
+			<desc>VBUS</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="16.3169" cy="880.674" width="32.64" height="7.37008"/>
+			<rect x="0" y="876.989" width="32.6339" height="7.37008" class="st18"/>
+			<text x="5.25" y="883.67" class="st19" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>VBUS</text>		</g>
+		<g id="shape23-107" v:mID="23" v:groupContext="shape" transform="translate(-458.385,305.278) rotate(-90)">
+			<title>Hoja.23</title>
+			<desc>USB</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="13.2661" cy="880.674" width="26.54" height="7.37008"/>
+			<rect x="0" y="876.989" width="26.5322" height="7.37008" class="st11"/>
+			<text x="4.84" y="883.67" class="st20" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>USB</text>		</g>
+		<g id="shape24-110" v:mID="24" v:groupContext="shape" transform="translate(504.12,-740.019)">
+			<title>Hoja.24</title>
+			<desc>Display 1</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="24.0945" cy="860.265" width="48.19" height="48.189"/>
+			<rect x="0" y="836.17" width="48.189" height="48.189" class="st21"/>
+			<text x="7.19" y="848.56" class="st22" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>Display 1<v:newlineChar/><v:newlineChar/></text>		</g>
+		<g id="shape25-113" v:mID="25" v:groupContext="shape" transform="translate(631.978,-739.951)">
+			<title>Hoja.25</title>
+			<desc>Display 2</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="24.0945" cy="860.265" width="48.19" height="48.189"/>
+			<rect x="0" y="836.17" width="48.189" height="48.189" class="st21"/>
+			<text x="7.19" y="848.56" class="st22" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>Display 2<v:newlineChar/><v:newlineChar/></text>		</g>
+		<g id="shape26-116" v:mID="26" v:groupContext="shape" transform="translate(1452.89,83.5718) rotate(90)">
+			<title>Hoja.26</title>
+			<path d="M0 884.36 L100.14 884.36" class="st4"/>
+		</g>
+		<g id="shape37-121" v:mID="37" v:groupContext="shape" transform="translate(481.147,-683.582)">
+			<title>Hoja.37</title>
+			<desc>SPI</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="12.0472" cy="880.674" width="24.1" height="7.37008"/>
+			<rect x="0" y="876.989" width="24.0945" height="7.37008" class="st11"/>
+			<text x="5.69" y="883.67" class="st20" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>SPI</text>		</g>
+		<g id="shape38-124" v:mID="38" v:groupContext="shape" transform="translate(-336.119,190.185) rotate(-90)">
+			<title>Hoja.38</title>
+			<path d="M0 884.36 L39.69 884.36" class="st4"/>
+		</g>
+		<g id="shape39-129" v:mID="39" v:groupContext="shape" transform="translate(-209.775,190.185) rotate(-90)">
+			<title>Hoja.39</title>
+			<path d="M0 884.36 L39.69 884.36" class="st4"/>
+		</g>
+		<g id="shape40-134" v:mID="40" v:groupContext="shape" transform="translate(-371.735,169.866) rotate(-90)">
+			<title>Hoja.40</title>
+			<path d="M0 884.36 L19.13 884.36" class="st4"/>
+		</g>
+		<g id="shape41-139" v:mID="41" v:groupContext="shape" transform="translate(-246.148,169.861) rotate(-89.9997)">
+			<title>Hoja.41</title>
+			<path d="M0 884.36 L19.13 884.36" class="st4"/>
+		</g>
+		<g id="shape42-144" v:mID="42" v:groupContext="shape" transform="translate(765.836,1054.37) rotate(179.996)">
+			<title>Hoja.42</title>
+			<path d="M0 884.36 L272.58 884.36" class="st10"/>
+		</g>
+		<g id="shape43-147" v:mID="43" v:groupContext="shape" transform="translate(1377.55,170.029) rotate(90)">
+			<title>Hoja.43</title>
+			<path d="M0 884.36 L14.43 884.36" class="st4"/>
+		</g>
+		<g id="shape45-152" v:mID="45" v:groupContext="shape" transform="translate(535.484,-683.385)">
+			<title>Hoja.45</title>
+			<desc>CS1</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="13.4646" cy="880.657" width="26.93" height="7.4053"/>
+			<rect x="0" y="876.954" width="26.9291" height="7.4053" class="st11"/>
+			<text x="5.92" y="883.66" class="st20" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>CS1</text>		</g>
+		<g id="shape46-155" v:mID="46" v:groupContext="shape" transform="translate(661.109,-683.385)">
+			<title>Hoja.46</title>
+			<desc>CS2</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="13.4646" cy="880.657" width="26.93" height="7.4053"/>
+			<rect x="0" y="876.954" width="26.9291" height="7.4053" class="st11"/>
+			<text x="5.92" y="883.66" class="st20" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>CS2</text>		</g>
+		<g id="shape47-158" v:mID="47" v:groupContext="shape" transform="translate(554.59,-683.385)">
+			<title>Hoja.47</title>
+			<desc>AB1</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="13.4646" cy="880.657" width="26.93" height="7.4053"/>
+			<rect x="0" y="876.954" width="26.9291" height="7.4053" class="st11"/>
+			<text x="5.1" y="883.66" class="st20" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>AB1</text>		</g>
+		<g id="shape48-161" v:mID="48" v:groupContext="shape" transform="translate(90.0063,-220.023)">
+			<title>Hoja.48</title>
+			<desc>PWR</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="24.0945" cy="874.359" width="48.19" height="20"/>
+			<rect x="0" y="864.359" width="48.189" height="20" class="st11"/>
+			<text x="20.17" y="877.96" class="st23" v:langID="12298"><v:paragraph v:horizAlign="2"/><v:tabList/>PWR</text>		</g>
+		<g id="shape50-164" v:mID="50" v:groupContext="shape" transform="translate(204.228,-231.31)">
+			<title>Hoja.50</title>
+			<path d="M0 884.36 L25.52 884.36" class="st10"/>
+		</g>
+		<g id="shape54-167" v:mID="54" v:groupContext="shape" transform="translate(336.322,-413.83)">
+			<title>Hoja.54</title>
+			<path d="M74.64 706.32 L74.28 706.32 L0 706.32 L0 878.64" class="st24"/>
+		</g>
+		<g id="shape55-174" v:mID="55" v:groupContext="shape" transform="translate(99.6291,-366.086)">
+			<title>Hoja.55</title>
+			<desc>DATA/PWR</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.2598" cy="875.081" width="42.52" height="18.5568"/>
+			<rect x="0" y="865.803" width="42.5197" height="18.5568" class="st11"/>
+			<text x="4.66" y="871.48" class="st23" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>DATA/<tspan x="9.25"
+						dy="1.2em" class="st17">PWR</tspan></text>		</g>
+		<g id="shape56-178" v:mID="56" v:groupContext="shape" transform="translate(480.438,-702.861)">
+			<title>Hoja.56</title>
+			<desc>3</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="8.50394" cy="878.559" width="17.01" height="11.6003"/>
+			<rect x="0" y="872.759" width="17.0079" height="11.6003" class="st11"/>
+			<text x="6.48" y="880.96" class="st25" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>3</text>		</g>
+		<g id="shape57-181" v:mID="57" v:groupContext="shape" transform="translate(389.591,-590.635)">
+			<title>Hoja.57</title>
+			<desc>2</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="8.50394" cy="878.559" width="17.01" height="11.6003"/>
+			<rect x="0" y="872.759" width="17.0079" height="11.6003" class="st11"/>
+			<text x="6.48" y="880.96" class="st25" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>2</text>		</g>
+		<g id="shape58-184" v:mID="58" v:groupContext="shape" transform="translate(1131.55,-289.13)">
+			<title>Hoja.58</title>
+			<path d="M0 884.36 L113.41 884.36" class="st8"/>
+		</g>
+		<g id="shape59-187" v:mID="59" v:groupContext="shape" transform="translate(1111.99,-263.618)">
+			<title>Hoja.59</title>
+			<path d="M0 874.44 L0 884.36 L31.18 884.36" class="st10"/>
+		</g>
+		<g id="shape60-190" v:mID="60" v:groupContext="shape" transform="translate(1102.49,-249.445)">
+			<title>Hoja.60</title>
+			<path d="M0 860.26 L0 884.36 L13.6 884.36" class="st10"/>
+		</g>
+		<g id="shape61-193" v:mID="61" v:groupContext="shape" transform="translate(1126.16,-249.445)">
+			<title>Hoja.61</title>
+			<path d="M0 884.36 L17.01 884.36" class="st10"/>
+		</g>
+		<g id="shape62-196" v:mID="62" v:groupContext="shape" transform="translate(1138.92,-263.618)">
+			<title>Hoja.62</title>
+			<desc>Fault</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="29.0551" cy="879.413" width="58.12" height="9.8929"/>
+			<rect x="0" y="874.466" width="58.1102" height="9.8929" class="st11"/>
+			<text x="4" y="881.81" class="st25" v:langID="12298"><v:paragraph/><v:tabList/>Fault</text>		</g>
+		<g id="shape63-199" v:mID="63" v:groupContext="shape" transform="translate(1139.2,-250.89)">
+			<title>Hoja.63</title>
+			<desc>Current set 0</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="33.7994" cy="879.413" width="67.6" height="9.8929"/>
+			<rect x="0" y="874.466" width="67.5989" height="9.8929" class="st11"/>
+			<text x="4" y="881.81" class="st25" v:langID="12298"><v:paragraph/><v:tabList/>Current set 0</text>		</g>
+		<g id="shape64-202" v:mID="64" v:groupContext="shape" transform="translate(1092.15,-211.46)">
+			<title>Hoja.64</title>
+			<path d="M0 822.28 L0 884.36 L51.02 884.36" class="st10"/>
+		</g>
+		<g id="shape65-205" v:mID="65" v:groupContext="shape" transform="translate(1138.92,-210.482)">
+			<title>Hoja.65</title>
+			<desc>Power control</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="879.413" width="70.87" height="9.8929"/>
+			<rect x="0" y="874.466" width="70.8661" height="9.8929" class="st11"/>
+			<text x="4" y="881.81" class="st25" v:langID="12298"><v:paragraph/><v:tabList/>Power control</text>		</g>
+		<g id="shape66-208" v:mID="66" v:groupContext="shape" transform="translate(1080.52,-277.928)">
+			<title>Hoja.66</title>
+			<desc>AP22653</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="873.157" width="51.03" height="22.4037"/>
+			<rect x="0" y="861.956" width="51.0236" height="22.4037" class="st11"/>
+			<text x="5.31" y="876.46" class="st26" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>AP22653</text>		</g>
+		<g id="shape67-211" v:mID="67" v:groupContext="shape" transform="translate(1017.07,-279.242)">
+			<title>Hoja.67</title>
+			<desc>VBUS</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="874.359" width="51.03" height="20"/>
+			<rect x="0" y="864.359" width="51.0236" height="20" class="st11"/>
+			<text x="12.24" y="877.96" class="st27" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>VBUS</text>		</g>
+		<g id="shape68-214" v:mID="68" v:groupContext="shape" transform="translate(836.131,-694.175)">
+			<title>Hoja.68</title>
+			<path d="M24.9 884.36 L24.9 836.17 L5.72 836.17" class="st4"/>
+		</g>
+		<g id="shape69-219" v:mID="69" v:groupContext="shape" transform="translate(487.125,-728.504)">
+			<title>Hoja.69</title>
+			<path d="M0 884.36 L349.01 884.36 L349.01 816.31 L0 816.31 L0 884.36 Z" class="st28"/>
+		</g>
+		<g id="shape70-221" v:mID="70" v:groupContext="shape" transform="translate(850.405,-682.852)">
+			<title>Hoja.70</title>
+			<desc>BR</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.6299" cy="880.657" width="21.26" height="7.4053"/>
+			<rect x="0" y="876.954" width="21.2598" height="7.4053" class="st11"/>
+			<text x="5.01" y="883.66" class="st20" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>BR</text>		</g>
+		<g id="shape71-224" v:mID="71" v:groupContext="shape" transform="translate(836.131,-694.175)">
+			<title>Hoja.71</title>
+			<path d="M41.91 884.36 L41.91 816.31 L5.72 816.31" class="st4"/>
+		</g>
+		<g id="shape72-229" v:mID="72" v:groupContext="shape" transform="translate(865.591,-682.938)">
+			<title>Hoja.72</title>
+			<desc>RST</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="12.4522" cy="880.657" width="24.91" height="7.4053"/>
+			<rect x="0" y="876.954" width="24.9044" height="7.4053" class="st11"/>
+			<text x="4.8" y="883.66" class="st20" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>RST</text>		</g>
+		<g id="shape73-232" v:mID="73" v:groupContext="shape" transform="translate(1098.5,-160.654)">
+			<title>Hoja.73</title>
+			<rect x="0" y="844.674" width="22.6772" height="39.685" class="st1"/>
+		</g>
+		<g id="shape74-234" v:mID="74" v:groupContext="shape" transform="translate(1104.46,-188.466)">
+			<title>Hoja.74</title>
+			<path d="M0 875.32 L9.04 884.36 L18.22 884.36" class="st10"/>
+		</g>
+		<g id="shape75-237" v:mID="75" v:groupContext="shape" transform="translate(1097.17,-188.393)">
+			<title>Hoja.75</title>
+			<path d="M0 884.36 L9.11 884.36" class="st10"/>
+		</g>
+		<g id="shape76-240" v:mID="76" v:groupContext="shape" transform="translate(1104.46,-172.066)">
+			<title>Hoja.76</title>
+			<path d="M0 875.32 L9.04 884.36 L18.22 884.36" class="st10"/>
+		</g>
+		<g id="shape77-243" v:mID="77" v:groupContext="shape" transform="translate(1097.17,-171.992)">
+			<title>Hoja.77</title>
+			<path d="M0 884.36 L9.11 884.36" class="st10"/>
+		</g>
+		<g id="shape78-246" v:mID="78" v:groupContext="shape" transform="translate(1097.17,1580.33) rotate(180)">
+			<title>Hoja.78</title>
+			<path d="M0 884.36 L36.85 884.36" class="st8"/>
+		</g>
+		<g id="shape79-249" v:mID="79" v:groupContext="shape" transform="translate(1097.17,1596.73) rotate(180)">
+			<title>Hoja.79</title>
+			<path d="M0 884.36 L36.85 884.36" class="st8"/>
+		</g>
+		<g id="shape80-252" v:mID="80" v:groupContext="shape" transform="translate(1117.47,-188.466)">
+			<title>Hoja.80</title>
+			<path d="M0 884.36 L127.45 884.36" class="st8"/>
+		</g>
+		<g id="shape81-255" v:mID="81" v:groupContext="shape" transform="translate(1115.12,-172.066)">
+			<title>Hoja.81</title>
+			<path d="M0 884.36 L129.8 884.36" class="st8"/>
+		</g>
+		<g id="shape82-258" v:mID="82" v:groupContext="shape" transform="translate(1024.3,-183.584)">
+			<title>Hoja.82</title>
+			<desc>DPx</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="18.1575" cy="879.399" width="36.32" height="9.92126"/>
+			<rect x="0" y="874.438" width="36.315" height="9.92126" class="st11"/>
+			<text x="13.54" y="883" class="st27" v:langID="12298"><v:paragraph v:horizAlign="2"/><v:tabList/>DPx</text>		</g>
+		<g id="shape83-261" v:mID="83" v:groupContext="shape" transform="translate(1028.87,-167.173)">
+			<title>Hoja.83</title>
+			<desc>DNx</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="15.5906" cy="879.399" width="31.19" height="9.92126"/>
+			<rect x="0" y="874.438" width="31.1811" height="9.92126" class="st11"/>
+			<text x="6.85" y="883" class="st27" v:langID="12298"><v:paragraph v:horizAlign="2"/><v:tabList/>DNx</text>		</g>
+		<g id="shape84-264" v:mID="84" v:groupContext="shape" transform="translate(1109.84,-149.315)">
+			<title>Hoja.84</title>
+			<path d="M0 873.02 L0 884.36 L58.11 884.36" class="st10"/>
+		</g>
+		<g id="shape85-267" v:mID="85" v:groupContext="shape" transform="translate(1164.77,-150.761)">
+			<title>Hoja.85</title>
+			<desc>Data switch</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="29.0551" cy="879.413" width="58.12" height="9.8929"/>
+			<rect x="0" y="874.466" width="58.1102" height="9.8929" class="st11"/>
+			<text x="4" y="881.81" class="st25" v:langID="12298"><v:paragraph/><v:tabList/>Data switch</text>		</g>
+		<g id="shape92-270" v:mID="92" v:groupContext="shape" transform="translate(-442.5,343.943) rotate(-90)">
+			<title>Hoja.92</title>
+			<path d="M0 884.36 L23.91 884.36" class="st4"/>
+		</g>
+		<g id="shape93-275" v:mID="93" v:groupContext="shape" transform="translate(1579.9,83.9595) rotate(90)">
+			<title>Hoja.93</title>
+			<path d="M0 884.36 L99.76 884.36" class="st4"/>
+		</g>
+		<g id="shape94-280" v:mID="94" v:groupContext="shape" transform="translate(681.483,-683.247)">
+			<title>Hoja.94</title>
+			<desc>AB2</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="13.4646" cy="880.657" width="26.93" height="7.4053"/>
+			<rect x="0" y="876.954" width="26.9291" height="7.4053" class="st11"/>
+			<text x="5.1" y="883.66" class="st20" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>AB2</text>		</g>
+		<g id="shape95-283" v:mID="95" v:groupContext="shape" transform="translate(846.862,-719.869)">
+			<title>Hoja.95</title>
+			<desc>3</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="8.50394" cy="878.559" width="17.01" height="11.6003"/>
+			<rect x="0" y="872.759" width="17.0079" height="11.6003" class="st11"/>
+			<text x="6.48" y="880.96" class="st25" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>3</text>		</g>
+		<g id="shape104-286" v:mID="104" v:groupContext="shape" transform="translate(1087.57,564.269) rotate(89.9909)">
+			<title>Hoja.104</title>
+			<path d="M0 884.36 L66.39 884.36" class="st10"/>
+		</g>
+		<g id="shape108-289" v:mID="108" v:groupContext="shape" transform="translate(378.626,-468.133)">
+			<title>Hoja.108</title>
+			<desc>3V3</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="18.8504" cy="873.729" width="37.71" height="21.2598"/>
+			<rect x="0" y="863.099" width="37.7008" height="21.2598" class="st1"/>
+			<text x="9.22" y="877.33" class="st23" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>3V3</text>		</g>
+		<g id="shape109-292" v:mID="109" v:groupContext="shape" transform="translate(438.769,-768.189)">
+			<title>Hoja.109</title>
+			<path d="M0 884.36 L42.63 884.36" class="st4"/>
+		</g>
+		<g id="group111-297" transform="translate(209.046,-228.481)" v:mID="111" v:groupContext="group">
+			<title>Hoja.111</title>
+			<g id="shape112-298" v:mID="112" v:groupContext="shape" transform="translate(0,-2.83465)">
+				<title>Hoja.112</title>
+				<path d="M0 884.36 L14.17 884.36" class="st10"/>
+			</g>
+			<g id="shape113-301" v:mID="113" v:groupContext="shape" transform="translate(5.66929,0)">
+				<title>Hoja.113</title>
+				<path d="M0 884.36 L0 878.69 L5.67 881.52 L0 884.36 Z" class="st21"/>
+			</g>
+			<g id="shape114-303" v:mID="114" v:groupContext="shape" transform="translate(-873.021,884.359) rotate(-90)">
+				<title>Hoja.114</title>
+				<path d="M0 884.36 L5.67 884.36" class="st10"/>
+			</g>
+		</g>
+		<g id="shape116-306" v:mID="116" v:groupContext="shape" transform="translate(480.438,-683.606)">
+			<title>Hoja.116</title>
+			<path d="M0 884.36 L26.93 884.36 L26.93 873.02 L0 873.02 L0 884.36 Z" class="st29"/>
+		</g>
+		<g id="shape117-308" v:mID="117" v:groupContext="shape" transform="translate(416.326,-577.684)">
+			<title>Hoja.117</title>
+			<path d="M0 884.36 L14.59 884.36 L14.59 856.85 L0 856.85 L0 884.36 Z" class="st29"/>
+		</g>
+		<g id="shape119-310" v:mID="119" v:groupContext="shape" transform="translate(882.599,-682.811)">
+			<title>Hoja.119</title>
+			<desc>D/C</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="12.4522" cy="880.657" width="24.91" height="7.4053"/>
+			<rect x="0" y="876.954" width="24.9044" height="7.4053" class="st11"/>
+			<text x="4.51" y="883.66" class="st20" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>D/C</text>		</g>
+		<g id="shape120-313" v:mID="120" v:groupContext="shape" transform="translate(836.131,-695.001)">
+			<title>Hoja.120</title>
+			<path d="M58.62 884.36 L58.62 797 L5.72 797" class="st4"/>
+		</g>
+		<g id="shape121-318" v:mID="121" v:groupContext="shape" transform="translate(1549.93,-141.386) rotate(29.3782)">
+			<title>Hoja.121</title>
+			<path d="M0 884.36 L11.56 884.36" class="st10"/>
+		</g>
+		<g id="shape122-321" v:mID="122" v:groupContext="shape" transform="translate(1126.16,-238.106)">
+			<title>Hoja.122</title>
+			<path d="M0 884.36 L17.01 884.36" class="st10"/>
+		</g>
+		<g id="shape123-324" v:mID="123" v:groupContext="shape" transform="translate(1549.93,-130.047) rotate(29.3782)">
+			<title>Hoja.123</title>
+			<path d="M0 884.36 L11.56 884.36" class="st10"/>
+		</g>
+		<g id="shape124-327" v:mID="124" v:groupContext="shape" transform="translate(1102.45,-238.106)">
+			<title>Hoja.124</title>
+			<path d="M14.17 884.36 L0 884.36 L0 873.02" class="st10"/>
+		</g>
+		<g id="shape125-330" v:mID="125" v:groupContext="shape" transform="translate(1139.2,-238.163)">
+			<title>Hoja.125</title>
+			<desc>Current set 1</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="33.7994" cy="879.413" width="67.6" height="9.8929"/>
+			<rect x="0" y="874.466" width="67.5989" height="9.8929" class="st11"/>
+			<text x="4" y="881.81" class="st25" v:langID="12298"><v:paragraph/><v:tabList/>Current set 1</text>		</g>
+		<g id="shape126-333" v:mID="126" v:groupContext="shape" transform="translate(1151.53,-283.352)">
+			<title>Hoja.126</title>
+			<rect x="0" y="874.466" width="26.6457" height="9.8929" class="st1"/>
+		</g>
+		<g id="shape131-335" v:mID="131" v:groupContext="shape" transform="translate(-47.7222,735.124) rotate(-90)">
+			<title>Hoja.131</title>
+			<path d="M0 884.36 L61.09 884.36" class="st4"/>
+		</g>
+		<g id="shape134-340" v:mID="134" v:groupContext="shape" transform="translate(572.064,-363.25)">
+			<title>Hoja.134</title>
+			<rect x="0" y="839.005" width="62.7723" height="45.3543" class="st7"/>
+		</g>
+		<g id="shape135-342" v:mID="135" v:groupContext="shape" transform="translate(-256.618,475.754) rotate(-90)">
+			<title>Hoja.135</title>
+			<path d="M0 884.36 L26.46 884.36" class="st4"/>
+		</g>
+		<g id="shape136-347" v:mID="136" v:groupContext="shape" transform="translate(-267.956,475.648) rotate(-90)">
+			<title>Hoja.136</title>
+			<path d="M0 884.36 L26.35 884.36" class="st4"/>
+		</g>
+		<g id="shape138-352" v:mID="138" v:groupContext="shape" transform="translate(-127.41,550.846) rotate(-90)">
+			<title>Hoja.138</title>
+			<path d="M0 884.36 L101.55 884.36" class="st4"/>
+		</g>
+		<g id="shape139-357" v:mID="139" v:groupContext="shape" transform="translate(-138.749,550.872) rotate(-90)">
+			<title>Hoja.139</title>
+			<path d="M0 884.36 L101.58 884.36" class="st4"/>
+		</g>
+		<g id="shape141-362" v:mID="141" v:groupContext="shape" transform="translate(487.752,-570.366)">
+			<title>Hoja.141</title>
+			<path d="M0 884.36 L14.59 884.36 L14.59 849.31 L0 849.31 L0 884.36 Z" class="st29"/>
+		</g>
+		<g id="shape142-364" v:mID="142" v:groupContext="shape" transform="translate(1379.24,314.179) rotate(90)">
+			<title>Hoja.142</title>
+			<path d="M0 884.36 L435.21 884.36" class="st10"/>
+		</g>
+		<g id="shape143-367" v:mID="143" v:groupContext="shape" transform="translate(-385.612,313.994) rotate(-90)">
+			<title>Hoja.143</title>
+			<desc>I2C</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="13.7561" cy="880.674" width="27.52" height="7.37008"/>
+			<rect x="0" y="876.989" width="27.5122" height="7.37008" class="st11"/>
+			<text x="4" y="883.67" class="st20" v:langID="12298"><v:paragraph/><v:tabList/>I2C</text>		</g>
+		<g id="shape147-370" v:mID="147" v:groupContext="shape" transform="translate(700.949,-289.398)">
+			<title>Hoja.147</title>
+			<rect x="0" y="839.005" width="62.7723" height="45.3543" class="st7"/>
+		</g>
+		<g id="shape148-372" v:mID="148" v:groupContext="shape" transform="translate(-150.118,735.124) rotate(-90)">
+			<title>Hoja.148</title>
+			<path d="M0 884.36 L134.31 884.36" class="st4"/>
+		</g>
+		<g id="shape149-377" v:mID="149" v:groupContext="shape" transform="translate(1629.94,595.093) rotate(90)">
+			<title>Hoja.149</title>
+			<path d="M5.36 884.36 L5.72 884.36 L140.03 884.36" class="st6"/>
+		</g>
+		<g id="shape150-382" v:mID="150" v:groupContext="shape" transform="translate(1640.71,735.124) rotate(90) scale(-1,1)">
+			<title>Hoja.150</title>
+			<path d="M5.36 884.36 L5.72 884.36 L139.94 884.36" class="st6"/>
+		</g>
+		<g id="shape153-387" v:mID="153" v:groupContext="shape" transform="translate(480.889,-553.096)">
+			<title>Hoja.153</title>
+			<desc>2</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="8.50394" cy="878.559" width="17.01" height="11.6003"/>
+			<rect x="0" y="872.759" width="17.0079" height="11.6003" class="st11"/>
+			<text x="6.48" y="880.96" class="st25" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>2</text>		</g>
+		<g id="shape163-390" v:mID="163" v:groupContext="shape" transform="translate(-132.231,-298.435) rotate(-45)">
+			<title>Hoja.163</title>
+			<path d="M0 884.36 L5.11 884.36" class="st10"/>
+		</g>
+		<g id="shape168-393" v:mID="168" v:groupContext="shape" transform="translate(-227.171,-331.045) rotate(-45)">
+			<title>Hoja.168</title>
+			<path d="M0 884.36 L5.11 884.36" class="st10"/>
+		</g>
+		<g id="shape170-396" v:mID="170" v:groupContext="shape" transform="translate(355.301,-669.432)">
+			<title>Hoja.170</title>
+			<path d="M83.47 785.6 L0 785.6 L0 881.91" class="st30"/>
+		</g>
+		<g id="shape172-402" v:mID="172" v:groupContext="shape" transform="translate(418.439,1099.14) rotate(179.863)">
+			<title>Hoja.172</title>
+			<path d="M5.36 884.36 L5.72 884.36 L61.03 884.36" class="st6"/>
+		</g>
+		<g id="shape173-407" v:mID="173" v:groupContext="shape" transform="translate(-635.911,630.779) rotate(-90)">
+			<title>Hoja.173</title>
+			<path d="M0 884.36 L28.83 884.36" class="st4"/>
+		</g>
+		<g id="shape174-412" v:mID="174" v:groupContext="shape" transform="translate(141.34,-346.465)">
+			<title>Hoja.174</title>
+			<rect x="0" y="828.111" width="14.1732" height="56.2481" rx="7.08661" ry="7.08661" class="st31"/>
+		</g>
+		<g id="shape175-414" v:mID="175" v:groupContext="shape" transform="translate(232.131,-288.133)">
+			<title>Hoja.175</title>
+			<desc>VBUS</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="16.3169" cy="879.998" width="32.64" height="8.72287"/>
+			<rect x="0" y="875.636" width="32.6339" height="8.72287" class="st11"/>
+			<text x="4.93" y="883" class="st20" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>VBUS</text>		</g>
+		<g id="shape176-417" v:mID="176" v:groupContext="shape" transform="translate(156.021,-319.95)">
+			<title>Hoja.176</title>
+			<path d="M47.24 884.36 L47.24 836.81 L0 836.81" class="st10"/>
+		</g>
+		<g id="shape177-420" v:mID="177" v:groupContext="shape" transform="translate(-133.816,-448.292) rotate(-45)">
+			<title>Hoja.177</title>
+			<path d="M0 884.36 L5.11 884.36" class="st10"/>
+		</g>
+		<g id="shape178-423" v:mID="178" v:groupContext="shape" transform="translate(234.069,-467.07) rotate(-45)">
+			<title>Hoja.178</title>
+			<path d="M0 884.36 L5.11 884.36" class="st10"/>
+		</g>
+		<g id="shape180-426" v:mID="180" v:groupContext="shape" transform="translate(510.383,-441.833)">
+			<title>Hoja.180</title>
+			<rect x="0" y="814.91" width="414.398" height="69.4488" class="st32"/>
+		</g>
+		<g id="shape181-428" v:mID="181" v:groupContext="shape" transform="translate(-264.13,442.917) rotate(-90)">
+			<title>Hoja.181</title>
+			<desc>Sense1+</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.8547" cy="880.657" width="45.71" height="7.4053"/>
+			<rect x="0" y="876.954" width="45.7094" height="7.4053" class="st11"/>
+			<text x="4" y="883.66" class="st20" v:langID="12298"><v:paragraph/><v:tabList/>Sense1+</text>		</g>
+		<g id="shape182-431" v:mID="182" v:groupContext="shape" transform="translate(-252.538,443.22) rotate(-90)">
+			<title>Hoja.182</title>
+			<desc>Sense1-</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.8547" cy="880.657" width="45.71" height="7.4053"/>
+			<rect x="0" y="876.954" width="45.7094" height="7.4053" class="st11"/>
+			<text x="4" y="883.66" class="st20" v:langID="12298"><v:paragraph/><v:tabList/>Sense1-</text>		</g>
+		<g id="shape184-434" v:mID="184" v:groupContext="shape" transform="translate(607.031,-441.71)">
+			<title>Hoja.184</title>
+			<path d="M0 884.36 L29.21 884.36 L29.21 828.66 L0 828.66 L0 884.36 Z" class="st29"/>
+		</g>
+		<g id="shape185-436" v:mID="185" v:groupContext="shape" transform="translate(1394.89,396.257) rotate(90)">
+			<title>Hoja.185</title>
+			<path d="M0 884.36 L14.59 884.36 L14.59 856.85 L0 856.85 L0 884.36 Z" class="st29"/>
+		</g>
+		<g id="shape186-438" v:mID="186" v:groupContext="shape" transform="translate(510.53,-477.608)">
+			<title>Hoja.186</title>
+			<desc>I2C</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="13.7561" cy="880.674" width="27.52" height="7.37008"/>
+			<rect x="0" y="876.989" width="27.5122" height="7.37008" class="st11"/>
+			<text x="7.24" y="883.67" class="st20" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>I2C</text>		</g>
+		<g id="shape188-441" v:mID="188" v:groupContext="shape" transform="translate(-273.627,793.683) rotate(-90)">
+			<title>Hoja.188</title>
+			<desc>I Control 0</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="27.8491" cy="880.657" width="55.7" height="7.4053"/>
+			<rect x="0" y="876.954" width="55.6983" height="7.4053" class="st11"/>
+			<text x="12.87" y="883.36" class="st12" v:langID="12298"><v:paragraph v:horizAlign="2"/><v:tabList/>I Control 0</text>		</g>
+		<g id="shape189-444" v:mID="189" v:groupContext="shape" transform="translate(-262.678,789.13) rotate(-90)">
+			<title>Hoja.189</title>
+			<desc>I Control 1</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="880.657" width="51.03" height="7.4053"/>
+			<rect x="0" y="876.954" width="51.0236" height="7.4053" class="st11"/>
+			<text x="8.19" y="883.36" class="st12" v:langID="12298"><v:paragraph v:horizAlign="2"/><v:tabList/>I Control 1</text>		</g>
+		<g id="shape190-447" v:mID="190" v:groupContext="shape" transform="translate(-251.682,781.193) rotate(-90)">
+			<title>Hoja.190</title>
+			<desc>Fault</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.4544" cy="880.657" width="42.91" height="7.4053"/>
+			<rect x="0" y="876.954" width="42.9089" height="7.4053" class="st11"/>
+			<text x="20.18" y="883.36" class="st12" v:langID="12298"><v:paragraph v:horizAlign="2"/><v:tabList/>Fault</text>		</g>
+		<g id="shape196-450" v:mID="196" v:groupContext="shape" transform="translate(736.556,-441.563)">
+			<title>Hoja.196</title>
+			<path d="M0 884.36 L29.21 884.36 L29.21 828.66 L0 828.66 L0 884.36 Z" class="st29"/>
+		</g>
+		<g id="shape197-452" v:mID="197" v:groupContext="shape" transform="translate(-145.815,789.155) rotate(-90)">
+			<title>Hoja.197</title>
+			<desc>I Control 0</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="880.657" width="51.03" height="7.4053"/>
+			<rect x="0" y="876.954" width="51.0236" height="7.4053" class="st11"/>
+			<text x="8.19" y="883.36" class="st12" v:langID="12298"><v:paragraph v:horizAlign="2"/><v:tabList/>I Control 0</text>		</g>
+		<g id="shape198-455" v:mID="198" v:groupContext="shape" transform="translate(-134.866,789.277) rotate(-90)">
+			<title>Hoja.198</title>
+			<desc>I Control 1</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="880.657" width="51.03" height="7.4053"/>
+			<rect x="0" y="876.954" width="51.0236" height="7.4053" class="st11"/>
+			<text x="8.19" y="883.36" class="st12" v:langID="12298"><v:paragraph v:horizAlign="2"/><v:tabList/>I Control 1</text>		</g>
+		<g id="shape199-458" v:mID="199" v:groupContext="shape" transform="translate(-123.87,781.34) rotate(-90)">
+			<title>Hoja.199</title>
+			<desc>Fault</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.4544" cy="880.657" width="42.91" height="7.4053"/>
+			<rect x="0" y="876.954" width="42.9089" height="7.4053" class="st11"/>
+			<text x="20.18" y="883.36" class="st12" v:langID="12298"><v:paragraph v:horizAlign="2"/><v:tabList/>Fault</text>		</g>
+		<g id="shape205-461" v:mID="205" v:groupContext="shape" transform="translate(862.149,-442.119)">
+			<title>Hoja.205</title>
+			<path d="M0 884.36 L29.21 884.36 L29.21 828.66 L0 828.66 L0 884.36 Z" class="st29"/>
+		</g>
+		<g id="shape206-463" v:mID="206" v:groupContext="shape" transform="translate(-18.918,789.185) rotate(-90)">
+			<title>Hoja.206</title>
+			<desc>I Control 0</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="880.657" width="51.03" height="7.4053"/>
+			<rect x="0" y="876.954" width="51.0236" height="7.4053" class="st11"/>
+			<text x="8.19" y="883.36" class="st12" v:langID="12298"><v:paragraph v:horizAlign="2"/><v:tabList/>I Control 0</text>		</g>
+		<g id="shape207-466" v:mID="207" v:groupContext="shape" transform="translate(-7.96959,788.259) rotate(-90)">
+			<title>Hoja.207</title>
+			<desc>I Control 1</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="24.9882" cy="880.657" width="49.98" height="7.4053"/>
+			<rect x="0" y="876.954" width="49.9765" height="7.4053" class="st11"/>
+			<text x="7.15" y="883.36" class="st12" v:langID="12298"><v:paragraph v:horizAlign="2"/><v:tabList/>I Control 1</text>		</g>
+		<g id="shape208-469" v:mID="208" v:groupContext="shape" transform="translate(3.02626,781.369) rotate(-90)">
+			<title>Hoja.208</title>
+			<desc>Fault</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.4544" cy="880.657" width="42.91" height="7.4053"/>
+			<rect x="0" y="876.954" width="42.9089" height="7.4053" class="st11"/>
+			<text x="20.18" y="883.36" class="st12" v:langID="12298"><v:paragraph v:horizAlign="2"/><v:tabList/>Fault</text>		</g>
+		<g id="shape209-472" v:mID="209" v:groupContext="shape" transform="translate(371.755,-233.83)">
+			<title>Hoja.209</title>
+			<path d="M0 884.36 L607.75 884.36" class="st10"/>
+		</g>
+		<g id="shape210-475" v:mID="210" v:groupContext="shape" transform="translate(371.755,-222.491)">
+			<title>Hoja.210</title>
+			<path d="M0 884.36 L607.75 884.36" class="st10"/>
+		</g>
+		<g id="shape213-478" v:mID="213" v:groupContext="shape" transform="translate(441.748,-245.168)">
+			<title>Hoja.213</title>
+			<path d="M0 884.36 L537.75 884.36" class="st10"/>
+		</g>
+		<g id="shape215-481" v:mID="215" v:groupContext="shape" transform="translate(-1.09058,631.613) rotate(-90)">
+			<title>Hoja.215</title>
+			<path d="M0 884.36 L182.32 884.36" class="st4"/>
+		</g>
+		<g id="shape216-486" v:mID="216" v:groupContext="shape" transform="translate(-12.4292,631.66) rotate(-90)">
+			<title>Hoja.216</title>
+			<path d="M0 884.36 L182.37 884.36" class="st4"/>
+		</g>
+		<g id="shape218-491" v:mID="218" v:groupContext="shape" transform="translate(827.68,-216.102)">
+			<title>Hoja.218</title>
+			<rect x="0" y="839.005" width="62.7723" height="45.3543" class="st7"/>
+		</g>
+		<g id="shape224-493" v:mID="224" v:groupContext="shape" transform="translate(-172.447,735.124) rotate(-90)">
+			<title>Hoja.224</title>
+			<path d="M0 884.36 L134.2 884.36" class="st4"/>
+		</g>
+		<g id="shape229-498" v:mID="229" v:groupContext="shape" transform="translate(-300.006,735.124) rotate(-90)">
+			<title>Hoja.229</title>
+			<path d="M0 884.36 L207.9 884.36" class="st4"/>
+		</g>
+		<g id="shape235-503" v:mID="235" v:groupContext="shape" transform="translate(759.537,-740.801)">
+			<title>Hoja.235</title>
+			<desc>Display 3</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="24.0945" cy="860.265" width="48.19" height="48.189"/>
+			<rect x="0" y="836.17" width="48.189" height="48.189" class="st21"/>
+			<text x="7.19" y="848.56" class="st22" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>Display 3<v:newlineChar/><v:newlineChar/></text>		</g>
+		<g id="shape241-506" v:mID="241" v:groupContext="shape" transform="translate(-82.2159,189.93) rotate(-90)">
+			<title>Hoja.241</title>
+			<path d="M0 884.36 L39.69 884.36" class="st4"/>
+		</g>
+		<g id="shape242-511" v:mID="242" v:groupContext="shape" transform="translate(-118.588,169.846) rotate(-90)">
+			<title>Hoja.242</title>
+			<path d="M0 884.36 L19.48 884.36" class="st4"/>
+		</g>
+		<g id="shape243-516" v:mID="243" v:groupContext="shape" transform="translate(788.668,-683.751)">
+			<title>Hoja.243</title>
+			<desc>CS3</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="13.4646" cy="880.657" width="26.93" height="7.4053"/>
+			<rect x="0" y="876.954" width="26.9291" height="7.4053" class="st11"/>
+			<text x="5.92" y="883.66" class="st20" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>CS3</text>		</g>
+		<g id="shape245-519" v:mID="245" v:groupContext="shape" transform="translate(1707.46,83.9912) rotate(90)">
+			<title>Hoja.245</title>
+			<path d="M0 884.36 L99.72 884.36" class="st4"/>
+		</g>
+		<g id="shape246-524" v:mID="246" v:groupContext="shape" transform="translate(809.042,-684.048)">
+			<title>Hoja.246</title>
+			<desc>AB3</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="13.4646" cy="880.657" width="26.93" height="7.4053"/>
+			<rect x="0" y="876.954" width="26.9291" height="7.4053" class="st11"/>
+			<text x="5.1" y="883.66" class="st20" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>AB3</text>		</g>
+		<g id="shape248-527" v:mID="248" v:groupContext="shape" transform="translate(955.742,1111.07) rotate(180)">
+			<title>Hoja.248</title>
+			<path d="M0 884.36 L11.34 884.36" class="st4"/>
+		</g>
+		<g id="shape249-532" v:mID="249" v:groupContext="shape" transform="translate(911.48,-654.061)">
+			<title>Hoja.249</title>
+			<desc>AB4</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="13.4646" cy="880.657" width="26.93" height="7.4053"/>
+			<rect x="0" y="876.954" width="26.9291" height="7.4053" class="st11"/>
+			<text x="5.1" y="883.66" class="st20" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>AB4</text>		</g>
+		<g id="shape254-535" v:mID="254" v:groupContext="shape" transform="translate(944.354,-664.273)">
+			<title>Hoja.254</title>
+			<desc>Setup</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="18.8504" cy="880.657" width="37.71" height="7.4053"/>
+			<rect x="0" y="876.954" width="37.7008" height="7.4053" class="st11"/>
+			<text x="8.31" y="883.36" class="st33" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>Setup</text>		</g>
+		<g id="shape255-538" v:mID="255" v:groupContext="shape" transform="translate(-135.108,443.606) rotate(-90)">
+			<title>Hoja.255</title>
+			<desc>Sense2+</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.8547" cy="880.657" width="45.71" height="7.4053"/>
+			<rect x="0" y="876.954" width="45.7094" height="7.4053" class="st11"/>
+			<text x="4" y="883.66" class="st20" v:langID="12298"><v:paragraph/><v:tabList/>Sense2+</text>		</g>
+		<g id="shape256-541" v:mID="256" v:groupContext="shape" transform="translate(-123.517,443.909) rotate(-90)">
+			<title>Hoja.256</title>
+			<desc>Sense2-</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.8547" cy="880.657" width="45.71" height="7.4053"/>
+			<rect x="0" y="876.954" width="45.7094" height="7.4053" class="st11"/>
+			<text x="4" y="883.66" class="st20" v:langID="12298"><v:paragraph/><v:tabList/>Sense2-</text>		</g>
+		<g id="shape257-544" v:mID="257" v:groupContext="shape" transform="translate(-9.42012,442.499) rotate(-90)">
+			<title>Hoja.257</title>
+			<desc>Sense3+</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.8547" cy="880.657" width="45.71" height="7.4053"/>
+			<rect x="0" y="876.954" width="45.7094" height="7.4053" class="st11"/>
+			<text x="4" y="883.66" class="st20" v:langID="12298"><v:paragraph/><v:tabList/>Sense3+</text>		</g>
+		<g id="shape258-547" v:mID="258" v:groupContext="shape" transform="translate(2.17155,442.802) rotate(-90)">
+			<title>Hoja.258</title>
+			<desc>Sense3-</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.8547" cy="880.657" width="45.71" height="7.4053"/>
+			<rect x="0" y="876.954" width="45.7094" height="7.4053" class="st11"/>
+			<text x="4" y="883.66" class="st20" v:langID="12298"><v:paragraph/><v:tabList/>Sense3-</text>		</g>
+		<g id="shape260-550" v:mID="260" v:groupContext="shape" transform="translate(-284.575,788.742) rotate(-90)">
+			<title>Hoja.260</title>
+			<desc>Power Ctrl</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="880.657" width="51.03" height="7.4053"/>
+			<rect x="0" y="876.954" width="51.0236" height="7.4053" class="st11"/>
+			<text x="7.63" y="883.36" class="st12" v:langID="12298"><v:paragraph v:horizAlign="2"/><v:tabList/>Power Ctrl</text>		</g>
+		<g id="shape261-553" v:mID="261" v:groupContext="shape" transform="translate(-156.763,788.742) rotate(-90)">
+			<title>Hoja.261</title>
+			<desc>Power Ctrl</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="880.657" width="51.03" height="7.4053"/>
+			<rect x="0" y="876.954" width="51.0236" height="7.4053" class="st11"/>
+			<text x="7.63" y="883.36" class="st12" v:langID="12298"><v:paragraph v:horizAlign="2"/><v:tabList/>Power Ctrl</text>		</g>
+		<g id="shape262-556" v:mID="262" v:groupContext="shape" transform="translate(-32.3191,793.771) rotate(-90)">
+			<title>Hoja.262</title>
+			<desc>Power Ctrl</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="27.8491" cy="880.657" width="55.7" height="7.4053"/>
+			<rect x="0" y="876.954" width="55.6983" height="7.4053" class="st11"/>
+			<text x="12.31" y="883.36" class="st12" v:langID="12298"><v:paragraph v:horizAlign="2"/><v:tabList/>Power Ctrl</text>		</g>
+		<g id="shape264-559" v:mID="264" v:groupContext="shape" transform="translate(578.684,-92.428)">
+			<title>Hoja.264</title>
+			<path d="M0 884.36 L59.53 884.36 L59.53 828.66 L0 828.66 L0 884.36 Z" class="st29"/>
+		</g>
+		<g id="shape265-561" v:mID="265" v:groupContext="shape" transform="translate(704.938,-92.428)">
+			<title>Hoja.265</title>
+			<path d="M0 884.36 L59.53 884.36 L59.53 828.66 L0 828.66 L0 884.36 Z" class="st29"/>
+		</g>
+		<g id="shape266-563" v:mID="266" v:groupContext="shape" transform="translate(828.133,-92.428)">
+			<title>Hoja.266</title>
+			<path d="M0 884.36 L62.77 884.36 L62.77 828.66 L0 828.66 L0 884.36 Z" class="st29"/>
+		</g>
+		<g id="shape267-565" v:mID="267" v:groupContext="shape" transform="translate(1395.85,742.325) rotate(90)">
+			<title>Hoja.267</title>
+			<path d="M0 884.36 L14.59 884.36 L14.59 856.85 L0 856.85 L0 884.36 Z" class="st29"/>
+		</g>
+		<g id="shape268-567" v:mID="268" v:groupContext="shape" transform="translate(511.487,-131.54)">
+			<title>Hoja.268</title>
+			<desc>I2C</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="13.7561" cy="880.674" width="27.52" height="7.37008"/>
+			<rect x="0" y="876.989" width="27.5122" height="7.37008" class="st11"/>
+			<text x="7.89" y="883.37" class="st12" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>I2C</text>		</g>
+		<g id="shape269-570" v:mID="269" v:groupContext="shape" transform="translate(494.877,-134.971)">
+			<title>Hoja.269</title>
+			<path d="M0 884.36 L16.28 884.36" class="st10"/>
+		</g>
+		<g id="shape270-573" v:mID="270" v:groupContext="shape" transform="translate(494.877,-480.809)">
+			<title>Hoja.270</title>
+			<path d="M0 884.36 L15.78 884.36" class="st10"/>
+		</g>
+		<g id="shape271-576" v:mID="271" v:groupContext="shape" transform="translate(926.801,-493.434)">
+			<title>Hoja.271</title>
+			<desc>PAC1943</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="25.7841" cy="875.081" width="51.57" height="18.5568"/>
+			<rect x="0" y="865.803" width="51.5681" height="18.5568" class="st11"/>
+			<text x="4" y="878.08" class="st34" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>PAC194<tspan
+						class="st17" v:langID="12298">3</tspan></text>		</g>
+		<g id="shape272-580" v:mID="272" v:groupContext="shape" transform="translate(910.772,-148.109)">
+			<title>Hoja.272</title>
+			<desc>STM8S003K3</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="35.4331" cy="875.081" width="70.87" height="18.5568"/>
+			<rect x="0" y="865.803" width="70.8661" height="18.5568" class="st11"/>
+			<text x="4" y="878.08" class="st34" v:langID="12298"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>STM8S003K3</text>		</g>
+		<g id="shape273-583" v:mID="273" v:groupContext="shape" transform="translate(1113.81,-311.492)">
+			<title>Hoja.273</title>
+			<desc>Sense +</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="18.5262" cy="880.657" width="37.06" height="7.4053"/>
+			<rect x="0" y="876.954" width="37.0525" height="7.4053" class="st11"/>
+			<text x="4" y="883.06" class="st25" v:langID="12298"><v:paragraph/><v:tabList/>Sense +</text>		</g>
+		<g id="shape274-586" v:mID="274" v:groupContext="shape" transform="translate(1181.94,-311.811)">
+			<title>Hoja.274</title>
+			<desc>Sense -</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.8547" cy="880.657" width="45.71" height="7.4053"/>
+			<rect x="0" y="876.954" width="45.7094" height="7.4053" class="st11"/>
+			<text x="4" y="883.06" class="st25" v:langID="12298"><v:paragraph/><v:tabList/>Sense -</text>		</g>
+		<g id="shape275-589" v:mID="275" v:groupContext="shape" transform="translate(927.182,-144.19)">
+			<title>Hoja.275</title>
+			<desc>As IO Extender</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="33.7994" cy="880.657" width="67.6" height="7.4053"/>
+			<rect x="0" y="876.954" width="67.5989" height="7.4053" class="st11"/>
+			<text x="4" y="883.06" class="st25" v:langID="12298"><v:paragraph/><v:tabList/>As IO Extender</text>		</g>
+		<g id="shape276-592" v:mID="276" v:groupContext="shape" transform="translate(511.003,-75.7594)">
+			<title>Hoja.276</title>
+			<desc>ADC</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.7165" cy="880.674" width="35.44" height="7.37008"/>
+			<rect x="0" y="876.989" width="35.4331" height="7.37008" class="st11"/>
+			<text x="4" y="883.37" class="st12" v:langID="12298"><v:paragraph/><v:tabList/>ADC</text>		</g>
+		<g id="shape277-595" v:mID="277" v:groupContext="shape" transform="translate(889.969,-63.3454)">
+			<title>Hoja.277</title>
+			<desc>SWIO</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.7165" cy="880.674" width="35.44" height="7.37008"/>
+			<rect x="0" y="876.989" width="35.4331" height="7.37008" class="st11"/>
+			<text x="10.54" y="883.37" class="st12" v:langID="12298"><v:paragraph v:horizAlign="2"/><v:tabList/>SWIO</text>		</g>
+		<g id="shape278-598" v:mID="278" v:groupContext="shape" transform="translate(1395.52,791.817) rotate(90)">
+			<title>Hoja.278</title>
+			<path d="M0 884.36 L31.18 884.36 L31.18 856.85 L0 856.85 L0 884.36 Z" class="st29"/>
+		</g>
+		<g id="shape279-600" v:mID="279" v:groupContext="shape" transform="translate(23.1438,373.078) rotate(-90)">
+			<title>Hoja.279</title>
+			<path d="M0 884.36 L53.3 884.36" class="st4"/>
+		</g>
+		<g id="shape280-605" v:mID="280" v:groupContext="shape" transform="translate(26.8467,419.141) rotate(-90)">
+			<title>Hoja.280</title>
+			<desc>ALERT1</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.8547" cy="880.657" width="45.71" height="7.4053"/>
+			<rect x="0" y="876.954" width="45.7094" height="7.4053" class="st11"/>
+			<text x="10.89" y="883.66" class="st20" v:langID="12298"><v:paragraph v:horizAlign="2"/><v:tabList/>ALERT1</text>		</g>
+		<g id="shape281-608" v:mID="281" v:groupContext="shape" transform="translate(26.8465,314.053) rotate(-90)">
+			<title>Hoja.281</title>
+			<desc>INT</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.8547" cy="880.657" width="45.71" height="7.4053"/>
+			<rect x="0" y="876.954" width="45.7094" height="7.4053" class="st11"/>
+			<text x="4" y="883.66" class="st20" v:langID="12298"><v:paragraph/><v:tabList/>INT</text>		</g>
+		<g id="group291-611" transform="translate(210.759,-240.622)" v:mID="291" v:groupContext="group">
+			<title>Hoja.291</title>
+			<g id="shape292-612" v:mID="292" v:groupContext="shape" transform="translate(5.09414,-0.510236)">
+				<title>Hoja.292</title>
+				<path d="M0 880.43 L4.5 884.36 L9.08 884.36" class="st10"/>
+			</g>
+			<g id="group293-615" v:mID="293" v:groupContext="group">
+				<title>Hoja.293</title>
+				<g id="shape294-616" v:mID="294" v:groupContext="shape" transform="translate(0,-0.524485)">
+					<title>Hoja.294</title>
+					<path d="M0 884.36 L4.94 884.36" class="st10"/>
+				</g>
+				<g id="shape295-619" v:mID="295" v:groupContext="shape" transform="translate(888.96,883.339) rotate(90)">
+					<title>Hoja.295</title>
+					<ellipse cx="0.510236" cy="884.062" rx="0.510236" ry="0.297158" class="st35"/>
+				</g>
+			</g>
+		</g>
+		<g id="shape297-621" v:mID="297" v:groupContext="shape" transform="translate(226.262,-231.31) scale(-1,1)">
+			<title>Hoja.297</title>
+			<path d="M0 884.36 L0 874.48 L3.04 874.48" class="st10"/>
+		</g>
+		<g id="shape298-624" v:mID="298" v:groupContext="shape" transform="translate(209.046,-231.268)">
+			<title>Hoja.298</title>
+			<path d="M0 884.36 L0 874.48 L2.08 874.48" class="st10"/>
+		</g>
+		<g id="shape299-627" v:mID="299" v:groupContext="shape" transform="translate(204.026,-253.562)">
+			<title>Hoja.299</title>
+			<path d="M0 884.36 L25.52 884.36" class="st10"/>
+		</g>
+		<g id="group300-630" transform="translate(208.845,-250.734)" v:mID="300" v:groupContext="group">
+			<title>Hoja.300</title>
+			<g id="shape301-631" v:mID="301" v:groupContext="shape" transform="translate(0,-2.83465)">
+				<title>Hoja.301</title>
+				<path d="M0 884.36 L14.17 884.36" class="st10"/>
+			</g>
+			<g id="shape302-634" v:mID="302" v:groupContext="shape" transform="translate(5.66929,0)">
+				<title>Hoja.302</title>
+				<path d="M0 884.36 L0 878.69 L5.67 881.52 L0 884.36 Z" class="st21"/>
+			</g>
+			<g id="shape303-636" v:mID="303" v:groupContext="shape" transform="translate(-873.021,884.359) rotate(-90)">
+				<title>Hoja.303</title>
+				<path d="M0 884.36 L5.67 884.36" class="st10"/>
+			</g>
+		</g>
+		<g id="group304-639" transform="translate(210.557,-262.874)" v:mID="304" v:groupContext="group">
+			<title>Hoja.304</title>
+			<g id="shape305-640" v:mID="305" v:groupContext="shape" transform="translate(5.09414,-0.510236)">
+				<title>Hoja.305</title>
+				<path d="M0 880.43 L4.5 884.36 L9.08 884.36" class="st10"/>
+			</g>
+			<g id="group306-643" v:mID="306" v:groupContext="group">
+				<title>Hoja.306</title>
+				<g id="shape307-644" v:mID="307" v:groupContext="shape" transform="translate(0,-0.524485)">
+					<title>Hoja.307</title>
+					<path d="M0 884.36 L4.94 884.36" class="st10"/>
+				</g>
+				<g id="shape308-647" v:mID="308" v:groupContext="shape" transform="translate(888.96,883.339) rotate(90)">
+					<title>Hoja.308</title>
+					<ellipse cx="0.510236" cy="884.062" rx="0.510236" ry="0.297158" class="st35"/>
+				</g>
+			</g>
+		</g>
+		<g id="shape309-649" v:mID="309" v:groupContext="shape" transform="translate(226.061,-253.562) scale(-1,1)">
+			<title>Hoja.309</title>
+			<path d="M0 884.36 L0 874.48 L3.04 874.48" class="st10"/>
+		</g>
+		<g id="shape310-652" v:mID="310" v:groupContext="shape" transform="translate(208.845,-253.521)">
+			<title>Hoja.310</title>
+			<path d="M0 884.36 L0 874.48 L2.08 874.48" class="st10"/>
+		</g>
+		<g id="group311-655" transform="translate(228.96,-253.085)" v:mID="311" v:groupContext="group">
+			<title>Hoja.311</title>
+			<g id="shape312-656" v:mID="312" v:groupContext="shape" transform="translate(5.09414,-0.510236)">
+				<title>Hoja.312</title>
+				<path d="M0 880.43 L4.5 884.36 L9.08 884.36" class="st10"/>
+			</g>
+			<g id="group313-659" v:mID="313" v:groupContext="group">
+				<title>Hoja.313</title>
+				<g id="shape314-660" v:mID="314" v:groupContext="shape" transform="translate(0,-0.524485)">
+					<title>Hoja.314</title>
+					<path d="M0 884.36 L4.94 884.36" class="st10"/>
+				</g>
+				<g id="shape315-663" v:mID="315" v:groupContext="shape" transform="translate(888.96,883.339) rotate(90)">
+					<title>Hoja.315</title>
+					<ellipse cx="0.510236" cy="884.062" rx="0.510236" ry="0.297158" class="st35"/>
+				</g>
+			</g>
+		</g>
+		<g id="shape317-665" v:mID="317" v:groupContext="shape" transform="translate(229.752,-231.31)">
+			<title>Hoja.317</title>
+			<path d="M0 884.36 L14.44 884.36" class="st10"/>
+		</g>
+		<g id="shape318-668" v:mID="318" v:groupContext="shape" transform="translate(244.196,-231.31)">
+			<title>Hoja.318</title>
+			<path d="M0 884.36 L4.25 884.36 L4.25 862.1" class="st10"/>
+		</g>
+		<g id="shape319-671" v:mID="319" v:groupContext="shape" transform="translate(243.133,-253.58)">
+			<title>Hoja.319</title>
+			<path d="M0 884.36 L5.32 884.36" class="st10"/>
+		</g>
+		<g id="shape320-674" v:mID="320" v:groupContext="shape" transform="translate(204.228,1537.41) rotate(180)">
+			<title>Hoja.320</title>
+			<path d="M0 884.36 L47.14 884.36" class="st10"/>
+		</g>
+		<g id="shape324-677" v:mID="324" v:groupContext="shape" transform="translate(147.356,-353.329)">
+			<title>Hoja.324</title>
+			<rect x="0" y="841.84" width="2.48766" height="42.5197" class="st21"/>
+		</g>
+		<g id="shape325-679" v:mID="325" v:groupContext="shape" transform="translate(142.149,-201.899)">
+			<title>Hoja.325</title>
+			<rect x="0" y="828.111" width="14.1732" height="56.2481" rx="7.08661" ry="7.08661" class="st31"/>
+		</g>
+		<g id="shape326-681" v:mID="326" v:groupContext="shape" transform="translate(148.165,-208.763)">
+			<title>Hoja.326</title>
+			<rect x="0" y="841.84" width="2.48766" height="42.5197" class="st21"/>
+		</g>
+		<g id="shape327-683" v:mID="327" v:groupContext="shape" transform="translate(371.48,-307.582)">
+			<title>Hoja.327</title>
+			<desc>DP2/DN2</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.4046" cy="880.657" width="44.81" height="7.4053"/>
+			<rect x="0" y="876.954" width="44.8093" height="7.4053" class="st11"/>
+			<text x="4" y="883.36" class="st12" v:langID="12298"><v:paragraph/><v:tabList/>DP<tspan class="st17" v:langID="1033">2</tspan>/DN2</text>		</g>
+		<g id="shape328-687" v:mID="328" v:groupContext="shape" transform="translate(371.853,-234.078)">
+			<title>Hoja.328</title>
+			<desc>DP3/DN3</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.4046" cy="880.657" width="44.81" height="7.4053"/>
+			<rect x="0" y="876.954" width="44.8093" height="7.4053" class="st11"/>
+			<text x="4" y="883.36" class="st12" v:langID="12298"><v:paragraph/><v:tabList/>DP3/DN3</text>		</g>
+		<g id="shape329-690" v:mID="329" v:groupContext="shape" transform="translate(-549.454,455.639) rotate(-90)">
+			<title>Hoja.329</title>
+			<desc>DP4/DN4</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.4046" cy="880.657" width="44.81" height="7.4053"/>
+			<rect x="0" y="876.954" width="44.8093" height="7.4053" class="st11"/>
+			<text x="4" y="883.36" class="st33" v:langID="12298"><v:paragraph/><v:tabList/>DP4/DN4</text>		</g>
+		<g id="shape330-693" v:mID="330" v:groupContext="shape" transform="translate(411.44,-377.293)">
+			<title>Hoja.330</title>
+			<desc>2</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="8.50394" cy="878.559" width="17.01" height="11.6003"/>
+			<rect x="0" y="872.759" width="17.0079" height="11.6003" class="st11"/>
+			<text x="6.48" y="880.96" class="st25" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>2</text>		</g>
+		<g id="shape331-696" v:mID="331" v:groupContext="shape" transform="translate(-205.321,-117.704) rotate(-45)">
+			<title>Hoja.331</title>
+			<path d="M0 884.36 L5.11 884.36" class="st10"/>
+		</g>
+		<g id="shape332-699" v:mID="332" v:groupContext="shape" transform="translate(411.44,-305.708)">
+			<title>Hoja.332</title>
+			<desc>2</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="8.50394" cy="878.559" width="17.01" height="11.6003"/>
+			<rect x="0" y="872.759" width="17.0079" height="11.6003" class="st11"/>
+			<text x="6.48" y="880.96" class="st25" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>2</text>		</g>
+		<g id="shape333-702" v:mID="333" v:groupContext="shape" transform="translate(-205.321,-46.1178) rotate(-45)">
+			<title>Hoja.333</title>
+			<path d="M0 884.36 L5.11 884.36" class="st10"/>
+		</g>
+		<g id="shape334-705" v:mID="334" v:groupContext="shape" transform="translate(411.44,-232.574)">
+			<title>Hoja.334</title>
+			<desc>2</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="8.50394" cy="878.559" width="17.01" height="11.6003"/>
+			<rect x="0" y="872.759" width="17.0079" height="11.6003" class="st11"/>
+			<text x="6.48" y="880.96" class="st25" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>2</text>		</g>
+		<g id="shape335-708" v:mID="335" v:groupContext="shape" transform="translate(-205.321,27.016) rotate(-45)">
+			<title>Hoja.335</title>
+			<path d="M0 884.36 L5.11 884.36" class="st10"/>
+		</g>
+		<g id="shape336-711" v:mID="336" v:groupContext="shape" transform="translate(411.44,-365.802)">
+			<title>Hoja.336</title>
+			<desc>4</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="8.50394" cy="878.559" width="17.01" height="11.6003"/>
+			<rect x="0" y="872.759" width="17.0079" height="11.6003" class="st11"/>
+			<text x="6.48" y="880.96" class="st25" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>4</text>		</g>
+		<g id="shape337-714" v:mID="337" v:groupContext="shape" transform="translate(-205.321,-106.212) rotate(-45)">
+			<title>Hoja.337</title>
+			<path d="M0 884.36 L5.11 884.36" class="st10"/>
+		</g>
+		<g id="shape338-717" v:mID="338" v:groupContext="shape" transform="translate(371.739,-367.503)">
+			<title>Hoja.338</title>
+			<desc>SS1</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.4046" cy="880.657" width="44.81" height="7.4053"/>
+			<rect x="0" y="876.954" width="44.8093" height="7.4053" class="st11"/>
+			<text x="4" y="883.36" class="st12" v:langID="12298"><v:paragraph/><v:tabList/>SS1</text>		</g>
+		<g id="shape340-720" v:mID="340" v:groupContext="shape" transform="translate(372.3,-295.769)">
+			<title>Hoja.340</title>
+			<desc>SS2</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.4046" cy="880.657" width="44.81" height="7.4053"/>
+			<rect x="0" y="876.954" width="44.8093" height="7.4053" class="st11"/>
+			<text x="4" y="883.36" class="st12" v:langID="12298"><v:paragraph/><v:tabList/>SS2</text>		</g>
+		<g id="shape341-723" v:mID="341" v:groupContext="shape" transform="translate(372.028,-222.936)">
+			<title>Hoja.341</title>
+			<desc>SS3</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.4046" cy="880.657" width="44.81" height="7.4053"/>
+			<rect x="0" y="876.954" width="44.8093" height="7.4053" class="st11"/>
+			<text x="4" y="883.36" class="st12" v:langID="12298"><v:paragraph/><v:tabList/>SS3</text>		</g>
+		<g id="shape343-726" v:mID="343" v:groupContext="shape" transform="translate(261.101,-368.92)">
+			<title>Hoja.343</title>
+			<rect x="0" y="861.682" width="17.1107" height="22.6772" class="st36"/>
+		</g>
+		<g id="shape344-728" v:mID="344" v:groupContext="shape" transform="translate(264.39,-380.29)">
+			<title>Hoja.344</title>
+			<path d="M0 878.85 L9.04 884.36 L18.22 884.36" class="st10"/>
+		</g>
+		<g id="shape345-731" v:mID="345" v:groupContext="shape" transform="translate(256.952,-375.105)">
+			<title>Hoja.345</title>
+			<path d="M0 884.36 L9.11 884.36" class="st10"/>
+		</g>
+		<g id="shape348-734" v:mID="348" v:groupContext="shape" transform="translate(256.952,-385.475)">
+			<title>Hoja.348</title>
+			<path d="M0 884.36 L9.11 884.36" class="st10"/>
+		</g>
+		<g id="shape350-737" v:mID="350" v:groupContext="shape" transform="translate(156.322,-210.18)">
+			<title>Hoja.350</title>
+			<path d="M0 884.36 L17.01 884.36" class="st10"/>
+		</g>
+		<g id="shape351-740" v:mID="351" v:groupContext="shape" transform="translate(156.322,-217.267)">
+			<title>Hoja.351</title>
+			<path d="M0 884.36 L24.34 884.36" class="st10"/>
+		</g>
+		<g id="shape352-743" v:mID="352" v:groupContext="shape" transform="translate(1057.69,674.179) rotate(90)">
+			<title>Hoja.352</title>
+			<path d="M0 884.36 L21.26 884.36" class="st10"/>
+		</g>
+		<g id="shape353-746" v:mID="353" v:groupContext="shape" transform="translate(1065.02,667.093) rotate(90)">
+			<title>Hoja.353</title>
+			<path d="M0 884.36 L28.35 884.36" class="st10"/>
+		</g>
+		<g id="shape354-749" v:mID="354" v:groupContext="shape" transform="translate(153.602,-217.267)">
+			<title>Hoja.354</title>
+			<desc>CC1</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="12.2338" cy="880.657" width="24.47" height="7.4053"/>
+			<rect x="0" y="876.954" width="24.4676" height="7.4053" class="st11"/>
+			<text x="4" y="883.36" class="st12" v:langID="12298"><v:paragraph/><v:tabList/>CC1</text>		</g>
+		<g id="shape355-752" v:mID="355" v:groupContext="shape" transform="translate(153.488,-209.861)">
+			<title>Hoja.355</title>
+			<desc>CC2</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="12.2338" cy="880.657" width="24.47" height="7.4053"/>
+			<rect x="0" y="876.954" width="24.4676" height="7.4053" class="st11"/>
+			<text x="4" y="883.36" class="st12" v:langID="12298"><v:paragraph/><v:tabList/>CC2</text>		</g>
+		<g id="shape356-755" v:mID="356" v:groupContext="shape" transform="translate(156.322,-353.011)">
+			<title>Hoja.356</title>
+			<path d="M0 884.36 L30.61 884.36" class="st10"/>
+		</g>
+		<g id="shape357-758" v:mID="357" v:groupContext="shape" transform="translate(156.322,-360.098)">
+			<title>Hoja.357</title>
+			<path d="M0 884.36 L37.7 884.36" class="st10"/>
+		</g>
+		<g id="shape358-761" v:mID="358" v:groupContext="shape" transform="translate(1071.29,531.348) rotate(90)">
+			<title>Hoja.358</title>
+			<path d="M0 884.36 L21.26 884.36" class="st10"/>
+		</g>
+		<g id="shape359-764" v:mID="359" v:groupContext="shape" transform="translate(1078.38,524.262) rotate(90)">
+			<title>Hoja.359</title>
+			<path d="M0 884.36 L28.35 884.36" class="st10"/>
+		</g>
+		<g id="shape360-767" v:mID="360" v:groupContext="shape" transform="translate(162.006,-360.098)">
+			<title>Hoja.360</title>
+			<desc>CC1</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="14.9492" cy="880.657" width="29.9" height="7.4053"/>
+			<rect x="0" y="876.954" width="29.8984" height="7.4053" class="st11"/>
+			<text x="4" y="883.36" class="st12" v:langID="12298"><v:paragraph/><v:tabList/>CC1</text>		</g>
+		<g id="shape361-770" v:mID="361" v:groupContext="shape" transform="translate(161.81,-352.692)">
+			<title>Hoja.361</title>
+			<desc>CC2</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="14.9492" cy="880.657" width="29.9" height="7.4053"/>
+			<rect x="0" y="876.954" width="29.8984" height="7.4053" class="st11"/>
+			<text x="4" y="883.36" class="st12" v:langID="12298"><v:paragraph/><v:tabList/>CC2</text>		</g>
+		<g id="shape362-773" v:mID="362" v:groupContext="shape" transform="translate(1071.29,552.602) rotate(89.9996)">
+			<title>Hoja.362</title>
+			<path d="M0 884.36 L142.83 884.36" class="st10"/>
+		</g>
+		<g id="shape363-776" v:mID="363" v:groupContext="shape" transform="translate(1078.38,552.608) rotate(90)">
+			<title>Hoja.363</title>
+			<path d="M0 884.36 L140.82 884.36" class="st10"/>
+		</g>
+		<g id="shape365-779" v:mID="365" v:groupContext="shape" transform="translate(-295.754,780.478) rotate(-90)">
+			<title>Hoja.365</title>
+			<desc>Data SW</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.26" cy="880.657" width="44.53" height="7.4053"/>
+			<rect x="0" y="876.954" width="44.5201" height="7.4053" class="st11"/>
+			<text x="4" y="883.36" class="st12" v:langID="12298"><v:paragraph/><v:tabList/>Data SW</text>		</g>
+		<g id="shape367-782" v:mID="367" v:groupContext="shape" transform="translate(-168.195,780.478) rotate(-90)">
+			<title>Hoja.367</title>
+			<desc>Data SW</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.26" cy="880.657" width="44.53" height="7.4053"/>
+			<rect x="0" y="876.954" width="44.5201" height="7.4053" class="st11"/>
+			<text x="4" y="883.36" class="st12" v:langID="12298"><v:paragraph/><v:tabList/>Data SW</text>		</g>
+		<g id="shape368-785" v:mID="368" v:groupContext="shape" transform="translate(-43.7664,780.732) rotate(-90)">
+			<title>Hoja.368</title>
+			<desc>Data SW</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.26" cy="880.657" width="44.53" height="7.4053"/>
+			<rect x="0" y="876.954" width="44.5201" height="7.4053" class="st11"/>
+			<text x="4" y="883.36" class="st12" v:langID="12298"><v:paragraph/><v:tabList/>Data SW</text>		</g>
+		<g id="shape369-788" v:mID="369" v:groupContext="shape" transform="translate(194.023,-89.7076)">
+			<title>Hoja.369</title>
+			<path d="M0 783.14 L0 884.36 L311.26 884.36" class="st4"/>
+		</g>
+		<g id="shape370-793" v:mID="370" v:groupContext="shape" transform="translate(186.936,-81.2037)">
+			<title>Hoja.370</title>
+			<path d="M0 776.92 L0 884.36 L318.34 884.36" class="st4"/>
+		</g>
+		<g id="shape371-798" v:mID="371" v:groupContext="shape" transform="translate(180.7,-72.6997)">
+			<title>Hoja.371</title>
+			<path d="M0 768.42 L0 884.36 L324.58 884.36" class="st4"/>
+		</g>
+		<g id="shape372-803" v:mID="372" v:groupContext="shape" transform="translate(173.33,-64.1958)">
+			<title>Hoja.372</title>
+			<path d="M0 759.92 L0 884.36 L331.95 884.36" class="st4"/>
+		</g>
+		<g id="shape373-808" v:mID="373" v:groupContext="shape" transform="translate(156.322,-394.432)">
+			<title>Hoja.373</title>
+			<path d="M4.1 884.36 L4.46 884.36 L139.73 884.36" class="st37"/>
+		</g>
+		<g id="shape374-817" v:mID="374" v:groupContext="shape" transform="translate(256.952,1383.24) rotate(180)">
+			<title>Hoja.374</title>
+			<path d="M4.1 884.36 L4.46 884.36 L96.17 884.36" class="st37"/>
+		</g>
+		<g id="shape375-824" v:mID="375" v:groupContext="shape" transform="translate(256.952,1393.61) rotate(180)">
+			<title>Hoja.375</title>
+			<path d="M4.1 884.36 L4.46 884.36 L96.17 884.36" class="st37"/>
+		</g>
+		<g id="shape376-831" v:mID="376" v:groupContext="shape" transform="translate(279.235,-380.289) rotate(0.0797881)">
+			<title>Hoja.376</title>
+			<path d="M4.1 884.36 L4.46 884.36 L18.05 884.36" class="st37"/>
+		</g>
+		<g id="shape377-838" v:mID="377" v:groupContext="shape" transform="translate(162.584,-375.139)">
+			<title>Hoja.377</title>
+			<desc>SS0</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.1468" cy="880.657" width="34.3" height="7.4053"/>
+			<rect x="0" y="876.954" width="34.2937" height="7.4053" class="st11"/>
+			<text x="4" y="883.36" class="st12" v:langID="12298"><v:paragraph/><v:tabList/>SS0</text>		</g>
+		<g id="shape378-841" v:mID="378" v:groupContext="shape" transform="translate(162.584,-385.06)">
+			<title>Hoja.378</title>
+			<desc>SS0’</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.1468" cy="880.657" width="34.3" height="7.4053"/>
+			<rect x="0" y="876.954" width="34.2937" height="7.4053" class="st11"/>
+			<text x="4" y="883.36" class="st12" v:langID="12298"><v:paragraph/><v:tabList/>SS0’</text>		</g>
+		<g id="shape379-844" v:mID="379" v:groupContext="shape" transform="translate(162.058,-394.432)">
+			<title>Hoja.379</title>
+			<desc>DP0/DN0</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="30.5792" cy="880.657" width="61.16" height="7.4053"/>
+			<rect x="0" y="876.954" width="61.1584" height="7.4053" class="st11"/>
+			<text x="4" y="883.36" class="st12" v:langID="12298"><v:paragraph/><v:tabList/>DP0/DN0</text>		</g>
+		<g id="shape380-847" v:mID="380" v:groupContext="shape" transform="translate(162.584,-367.184)">
+			<title>Hoja.380</title>
+			<desc>VCC_HOST</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="32.2356" cy="880.657" width="64.48" height="7.4053"/>
+			<rect x="0" y="876.954" width="64.4711" height="7.4053" class="st11"/>
+			<text x="4" y="883.36" class="st12" v:langID="12298"><v:paragraph/><v:tabList/>VCC_HOST</text>		</g>
+		<g id="shape381-850" v:mID="381" v:groupContext="shape" transform="translate(153.602,-231.688)">
+			<title>Hoja.381</title>
+			<desc>VCC_EXT</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="26.3803" cy="880.657" width="52.77" height="7.4053"/>
+			<rect x="0" y="876.954" width="52.7605" height="7.4053" class="st11"/>
+			<text x="4" y="883.36" class="st12" v:langID="12298"><v:paragraph/><v:tabList/>VCC_EXT</text>		</g>
+		<g id="shape382-853" v:mID="382" v:groupContext="shape" transform="translate(269.708,-118.054)">
+			<title>Hoja.382</title>
+			<path d="M0 638.86 L0 639.22 L0 884.36 L241.3 884.36" class="st6"/>
+		</g>
+		<g id="shape383-858" v:mID="383" v:groupContext="shape" transform="translate(1395.52,759.219) rotate(90)">
+			<title>Hoja.383</title>
+			<path d="M0 884.36 L14.59 884.36 L14.59 856.85 L0 856.85 L0 884.36 Z" class="st29"/>
+		</g>
+		<g id="shape384-860" v:mID="384" v:groupContext="shape" transform="translate(511.003,-114.163)">
+			<title>Hoja.384</title>
+			<desc>MUX</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="13.7561" cy="880.674" width="27.52" height="7.37008"/>
+			<rect x="0" y="876.989" width="27.5122" height="7.37008" class="st11"/>
+			<text x="4.41" y="883.37" class="st12" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>MUX</text>		</g>
+		<g id="shape385-863" v:mID="385" v:groupContext="shape" transform="translate(416.326,-478.054)">
+			<title>Hoja.385</title>
+			<path d="M0 884.36 L23.06 884.36" class="st30"/>
+		</g>
+		<g id="shape386-868" v:mID="386" v:groupContext="shape" transform="translate(355.301,-478.054)">
+			<title>Hoja.386</title>
+			<path d="M0 670.3 L0 884.36 L23.32 884.36" class="st10"/>
+		</g>
+		<g id="shape390-871" v:mID="390" v:groupContext="shape" transform="translate(900.693,-707.529)">
+			<title>Hoja.390</title>
+			<desc>ESP32-S2</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="34.5633" cy="875.081" width="69.13" height="18.5568"/>
+			<rect x="0" y="865.803" width="69.1266" height="18.5568" class="st11"/>
+			<text x="4" y="878.08" class="st34" v:langID="12298"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>ESP32-S2</text>		</g>
+		<g id="shape391-874" v:mID="391" v:groupContext="shape" transform="translate(912.152,-595.041)">
+			<title>Hoja.391</title>
+			<desc>I2C</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="13.4646" cy="880.657" width="26.93" height="7.4053"/>
+			<rect x="0" y="876.954" width="26.9291" height="7.4053" class="st11"/>
+			<text x="6.95" y="883.66" class="st20" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>I2C</text>		</g>
+		<g id="shape393-877" v:mID="393" v:groupContext="shape" transform="translate(938.684,-597.744)">
+			<title>Hoja.393</title>
+			<path d="M0 884.36 L34.16 884.36" class="st4"/>
+		</g>
+		<g id="shape394-882" v:mID="394" v:groupContext="shape" transform="translate(940.342,-608.448)">
+			<title>Hoja.394</title>
+			<desc>Stemma QT</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="22.2913" cy="875.081" width="44.59" height="18.5568"/>
+			<rect x="0" y="865.803" width="44.5826" height="18.5568" class="st11"/>
+			<text x="7.13" y="872.38" class="st33" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>Stemma <v:newlineChar/><tspan
+						x="17.07" dy="1.2em" class="st17">QT</tspan></text>		</g>
+		<g id="shape396-886" v:mID="396" v:groupContext="shape" transform="translate(199.125,-220.101)">
+			<title>Hoja.396</title>
+			<path d="M0 884.36 L42.52 884.36 L42.52 830.5 L0 830.5 L0 884.36 Z" class="st39"/>
+		</g>
+		<g id="shape399-888" v:mID="399" v:groupContext="shape" transform="translate(-675.596,708.195) rotate(-90)">
+			<title>Hoja.399</title>
+			<path d="M0 884.36 L43.94 884.36" class="st10"/>
+		</g>
+		<g id="shape400-891" v:mID="400" v:groupContext="shape" transform="translate(1103.04,733.707) rotate(90)">
+			<title>Hoja.400</title>
+			<path d="M0 884.36 L8.5 884.36" class="st10"/>
+		</g>
+		<g id="shape401-894" v:mID="401" v:groupContext="shape" transform="translate(214.432,-134.353)">
+			<title>Hoja.401</title>
+			<path d="M8.5 877.27 L4.25 884.36 L0 877.27 L8.5 877.27 Z" class="st1"/>
+		</g>
+		<g id="shape402-896" v:mID="402" v:groupContext="shape" transform="translate(86.1051,-169.078)">
+			<title>Hoja.402</title>
+			<desc>ON/OFF</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.7841" cy="874.359" width="51.57" height="20"/>
+			<rect x="0" y="864.359" width="51.5681" height="20" class="st11"/>
+			<text x="7.26" y="877.96" class="st23" v:langID="12298"><v:paragraph v:horizAlign="2"/><v:tabList/>ON/OFF</text>		</g>
+		<g id="shape403-899" v:mID="403" v:groupContext="shape" transform="translate(309.393,-525.827)">
+			<title>Hoja.403</title>
+			<rect x="0" y="869.773" width="606.614" height="14.5858" rx="7.2929" ry="7.2929" class="st36"/>
+		</g>
+		<g id="shape405-901" v:mID="405" v:groupContext="shape" transform="translate(142.432,-146.401)">
+			<title>Hoja.405</title>
+			<rect x="0" y="850.344" width="14.1732" height="34.0157" class="st40"/>
+		</g>
+		<g id="shape397-903" v:mID="397" v:groupContext="shape" transform="translate(1033.59,715.484) rotate(90)">
+			<title>Hoja.397</title>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<path d="M0 880.11 L9.04 884.36 L18.22 884.36" class="st10"/>
+		</g>
+		<g id="shape398-906" v:mID="398" v:groupContext="shape" transform="translate(1033.52,708.195) rotate(90)">
+			<title>Hoja.398</title>
+			<path d="M0 884.36 L9.11 884.36" class="st10"/>
+		</g>
+		<g id="shape406-909" v:mID="406" v:groupContext="shape" transform="translate(149.236,-150.652)">
+			<title>Hoja.406</title>
+			<path d="M0 884.36 L69.45 884.36" class="st10"/>
+		</g>
+		<g id="shape407-912" v:mID="407" v:groupContext="shape" transform="translate(149.162,-176.164)">
+			<title>Hoja.407</title>
+			<path d="M0 884.36 L59.6 884.36" class="st10"/>
+		</g>
+		<g id="shape408-915" v:mID="408" v:groupContext="shape" transform="translate(1060.73,-128.055)">
+			<title>Hoja.408</title>
+			<path d="M0 884.36 L184.98 884.36" class="st8"/>
+		</g>
+		<g id="shape409-918" v:mID="409" v:groupContext="shape" transform="translate(1029.43,-123.094)">
+			<title>Hoja.409</title>
+			<desc>SSx</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="15.5906" cy="879.399" width="31.19" height="9.92126"/>
+			<rect x="0" y="874.438" width="31.1811" height="9.92126" class="st11"/>
+			<text x="10.96" y="883" class="st27" v:langID="12298"><v:paragraph v:horizAlign="2"/><v:tabList/>SSx</text>		</g>
+		<g id="shape247-921" v:mID="247" v:groupContext="shape" transform="translate(955.742,-652.985)">
+			<title>Hoja.247</title>
+			<rect x="0" y="875.175" width="12.7559" height="9.18425" class="st41"/>
+		</g>
+		<g id="shape250-923" v:mID="250" v:groupContext="shape" transform="translate(956.582,-655.453)">
+			<title>Hoja.250</title>
+			<path d="M0 884.36 L2.08 884.36" class="st10"/>
+		</g>
+		<g id="shape251-926" v:mID="251" v:groupContext="shape" transform="translate(965.745,-655.454)">
+			<title>Hoja.251</title>
+			<path d="M0 884.36 L1.91 884.36" class="st10"/>
+		</g>
+		<g id="shape252-929" v:mID="252" v:groupContext="shape" transform="translate(957.242,-657.055)">
+			<title>Hoja.252</title>
+			<path d="M0 884.36 L9.92 884.36" class="st10"/>
+		</g>
+		<g id="shape253-932" v:mID="253" v:groupContext="shape" transform="translate(958.659,-657.055)">
+			<title>Hoja.253</title>
+			<rect x="0" y="881.525" width="7.08661" height="2.83465" class="st1"/>
+		</g>
+		<g id="shape392-934" v:mID="392" v:groupContext="shape" transform="translate(978.738,-582.936)">
+			<title>Hoja.392</title>
+			<rect x="0" y="855.873" width="11.3386" height="28.486" class="st1"/>
+		</g>
+		<g id="shape31-936" v:mID="31" v:groupContext="shape" transform="translate(562.279,-799.775)">
+			<title>Hoja.31</title>
+			<rect x="0" y="875.175" width="12.7559" height="9.18425" class="st41"/>
+		</g>
+		<g id="shape36-938" v:mID="36" v:groupContext="shape" transform="translate(689.235,-799.321)">
+			<title>Hoja.36</title>
+			<rect x="0" y="875.175" width="12.7559" height="9.18425" class="st41"/>
+		</g>
+		<g id="shape240-940" v:mID="240" v:groupContext="shape" transform="translate(816.794,-799.687)">
+			<title>Hoja.240</title>
+			<rect x="0" y="875.175" width="12.7559" height="9.18425" class="st41"/>
+		</g>
+		<g id="shape27-942" v:mID="27" v:groupContext="shape" transform="translate(563.037,-803.105)">
+			<title>Hoja.27</title>
+			<path d="M0 884.36 L2.08 884.36" class="st10"/>
+		</g>
+		<g id="shape28-945" v:mID="28" v:groupContext="shape" transform="translate(572.2,-803.105)">
+			<title>Hoja.28</title>
+			<path d="M0 884.36 L1.91 884.36" class="st10"/>
+		</g>
+		<g id="shape29-948" v:mID="29" v:groupContext="shape" transform="translate(563.696,-804.707)">
+			<title>Hoja.29</title>
+			<path d="M0 884.36 L9.92 884.36" class="st10"/>
+		</g>
+		<g id="shape30-951" v:mID="30" v:groupContext="shape" transform="translate(565.114,-804.707)">
+			<title>Hoja.30</title>
+			<rect x="0" y="881.525" width="7.08661" height="2.83465" class="st1"/>
+		</g>
+		<g id="shape32-953" v:mID="32" v:groupContext="shape" transform="translate(689.993,-802.652)">
+			<title>Hoja.32</title>
+			<path d="M0 884.36 L2.08 884.36" class="st10"/>
+		</g>
+		<g id="shape33-956" v:mID="33" v:groupContext="shape" transform="translate(699.157,-802.652)">
+			<title>Hoja.33</title>
+			<path d="M0 884.36 L1.91 884.36" class="st10"/>
+		</g>
+		<g id="shape34-959" v:mID="34" v:groupContext="shape" transform="translate(690.653,-804.253)">
+			<title>Hoja.34</title>
+			<path d="M0 884.36 L9.92 884.36" class="st10"/>
+		</g>
+		<g id="shape35-962" v:mID="35" v:groupContext="shape" transform="translate(692.07,-804.253)">
+			<title>Hoja.35</title>
+			<rect x="0" y="881.525" width="7.08661" height="2.83465" class="st1"/>
+		</g>
+		<g id="shape236-964" v:mID="236" v:groupContext="shape" transform="translate(817.552,-803.018)">
+			<title>Hoja.236</title>
+			<path d="M0 884.36 L2.08 884.36" class="st10"/>
+		</g>
+		<g id="shape237-967" v:mID="237" v:groupContext="shape" transform="translate(826.716,-803.018)">
+			<title>Hoja.237</title>
+			<path d="M0 884.36 L1.91 884.36" class="st10"/>
+		</g>
+		<g id="shape238-970" v:mID="238" v:groupContext="shape" transform="translate(818.212,-804.619)">
+			<title>Hoja.238</title>
+			<path d="M0 884.36 L9.92 884.36" class="st10"/>
+		</g>
+		<g id="shape239-973" v:mID="239" v:groupContext="shape" transform="translate(819.629,-804.619)">
+			<title>Hoja.239</title>
+			<rect x="0" y="881.525" width="7.08661" height="2.83465" class="st1"/>
+		</g>
+		<g id="shape411-975" v:mID="411" v:groupContext="shape" transform="translate(926.525,-487.774)">
+			<title>Hoja.411</title>
+			<desc>Power Meter</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.7841" cy="880.657" width="51.57" height="7.4053"/>
+			<rect x="0" y="876.954" width="51.5681" height="7.4053" class="st11"/>
+			<text x="4" y="883.06" class="st25" v:langID="12298"><v:paragraph/><v:tabList/>Power Meter</text>		</g>
+		<g id="shape412-978" v:mID="412" v:groupContext="shape" transform="translate(900.417,-703.593)">
+			<title>Hoja.412</title>
+			<desc>Main Controller</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="34.5633" cy="880.657" width="69.13" height="7.4053"/>
+			<rect x="0" y="876.954" width="69.1266" height="7.4053" class="st11"/>
+			<text x="4" y="883.06" class="st25" v:langID="12298"><v:paragraph/><v:tabList/>Main Controller</text>		</g>
+		<g id="shape413-981" v:mID="413" v:groupContext="shape" transform="translate(262.145,595.23) rotate(-90)">
+			<title>Hoja.413</title>
+			<path d="M0 884.36 L50.32 884.36" class="st10"/>
+		</g>
+		<g id="shape414-984" v:mID="414" v:groupContext="shape" transform="translate(297.578,595.23) rotate(-90)">
+			<title>Hoja.414</title>
+			<path d="M0 884.36 L50.32 884.36" class="st10"/>
+		</g>
+		<g id="shape415-987" v:mID="415" v:groupContext="shape" transform="translate(417.251,-665.424)">
+			<title>Hoja.415</title>
+			<desc>3V3</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="12.0472" cy="880.674" width="24.1" height="7.37008"/>
+			<rect x="0" y="876.989" width="24.0945" height="7.37008" class="st11"/>
+			<text x="4.02" y="883.67" class="st20" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>3V3</text>		</g>
+		<g id="shape416-990" v:mID="416" v:groupContext="shape" transform="translate(416.543,-663.464)">
+			<title>Hoja.416</title>
+			<path d="M0 884.36 L26.93 884.36 L26.93 873.02 L0 873.02 L0 884.36 Z" class="st29"/>
+		</g>
+		<g id="shape417-992" v:mID="417" v:groupContext="shape" transform="translate(211.292,-205.516)">
+			<title>Hoja.417</title>
+			<desc>2X TPS25947</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="27.7795" cy="877.066" width="55.56" height="14.5858"/>
+			<rect x="0" y="869.773" width="55.5591" height="14.5858" class="st11"/>
+			<text x="4" y="879.47" class="st42" v:langID="12298"><v:paragraph/><v:tabList/>2X TPS25947</text>		</g>
+		<g id="shape418-995" v:mID="418" v:groupContext="shape" transform="translate(211.314,-187.705)">
+			<title>Hoja.418</title>
+			<desc>Low Rds Power Oring</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="27.7795" cy="875.248" width="55.56" height="18.2227"/>
+			<rect x="0" y="866.137" width="55.5591" height="18.2227" class="st11"/>
+			<text x="4" y="872.85" class="st25" v:langID="12298"><v:paragraph/><v:tabList/>Low Rds <tspan x="4" dy="1.2em"
+						class="st17">Power Oring</tspan></text>		</g>
+		<g id="shape419-999" v:mID="419" v:groupContext="shape" transform="translate(299.062,-174.747)">
+			<title>Hoja.419</title>
+			<desc>UPD720210K8</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="40.107" cy="875.081" width="80.22" height="18.5568"/>
+			<rect x="0" y="865.803" width="80.2139" height="18.5568" class="st11"/>
+			<text x="4" y="878.08" class="st34" v:langID="12298"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>UPD720210K8</text>		</g>
+		<g id="shape420-1002" v:mID="420" v:groupContext="shape" transform="translate(957.109,-61.3612)">
+			<title>Hoja.420</title>
+			<rect x="0" y="858.847" width="14.1732" height="25.5118" class="st1"/>
+		</g>
+		<g id="shape421-1004" v:mID="421" v:groupContext="shape" transform="translate(889.787,-74.684)">
+			<title>Hoja.421</title>
+			<desc>RST</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.7165" cy="880.674" width="35.44" height="7.37008"/>
+			<rect x="0" y="876.989" width="35.4331" height="7.37008" class="st11"/>
+			<text x="17.66" y="883.37" class="st12" v:langID="12298"><v:paragraph v:horizAlign="2"/><v:tabList/>RST</text>		</g>
+		<g id="shape422-1007" v:mID="422" v:groupContext="shape" transform="translate(925.22,-78.369)">
+			<title>Hoja.422</title>
+			<path d="M0 884.36 L31.89 884.36" class="st10"/>
+		</g>
+		<g id="shape423-1010" v:mID="423" v:groupContext="shape" transform="translate(925.402,-67.0304)">
+			<title>Hoja.423</title>
+			<path d="M0 884.36 L31.71 884.36" class="st10"/>
+		</g>
+		<g id="shape424-1013" v:mID="424" v:groupContext="shape" transform="translate(937.96,-88.1587)">
+			<title>Hoja.424</title>
+			<desc>Program Interface</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="23.3226" cy="875.081" width="46.65" height="18.5568"/>
+			<rect x="0" y="865.803" width="46.6453" height="18.5568" class="st11"/>
+			<text x="4" y="872.68" class="st25" v:langID="12298"><v:paragraph/><v:tabList/>Program <tspan x="4" dy="1.2em"
+						class="st17">Interface</tspan></text>		</g>
+		<g id="shape426-1017" v:mID="426" v:groupContext="shape" transform="translate(322.227,-612.117)">
+			<title>Hoja.426</title>
+			<rect x="0" y="839.839" width="14.1732" height="44.5201" class="st1"/>
+		</g>
+		<g id="shape428-1019" v:mID="428" v:groupContext="shape" transform="translate(283.881,-625.098)">
+			<title>Hoja.428</title>
+			<desc>Program Interface</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="23.3226" cy="875.081" width="46.65" height="18.5568"/>
+			<rect x="0" y="865.803" width="46.6453" height="18.5568" class="st11"/>
+			<text x="4" y="872.38" class="st33" v:langID="12298"><v:paragraph/><v:tabList/>Program <tspan x="4" dy="1.2em"
+						class="st17">Interface</tspan></text>		</g>
+		<g id="shape431-1023" v:mID="431" v:groupContext="shape" transform="translate(416.254,-635.123)">
+			<title>Hoja.431</title>
+			<desc>Boot</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="15.1465" cy="880.674" width="30.3" height="7.37008"/>
+			<rect x="0" y="876.989" width="30.293" height="7.37008" class="st11"/>
+			<text x="4" y="883.67" class="st20" v:langID="12298"><v:paragraph/><v:tabList/>Boot</text>		</g>
+		<g id="shape432-1026" v:mID="432" v:groupContext="shape" transform="translate(416.099,-646.462)">
+			<title>Hoja.432</title>
+			<desc>RST</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="15.1465" cy="880.674" width="30.3" height="7.37008"/>
+			<rect x="0" y="876.989" width="30.293" height="7.37008" class="st11"/>
+			<text x="4" y="883.67" class="st20" v:langID="12298"><v:paragraph/><v:tabList/>RST</text>		</g>
+		<g id="shape433-1029" v:mID="433" v:groupContext="shape" transform="translate(416.58,-623.785)">
+			<title>Hoja.433</title>
+			<desc>Tx</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="15.1465" cy="880.674" width="30.3" height="7.37008"/>
+			<rect x="0" y="876.989" width="30.293" height="7.37008" class="st11"/>
+			<text x="4" y="883.67" class="st20" v:langID="12298"><v:paragraph/><v:tabList/>Tx</text>		</g>
+		<g id="shape434-1032" v:mID="434" v:groupContext="shape" transform="translate(416.58,-611.849)">
+			<title>Hoja.434</title>
+			<desc>Rx</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="15.1465" cy="880.674" width="30.3" height="7.37008"/>
+			<rect x="0" y="876.989" width="30.293" height="7.37008" class="st11"/>
+			<text x="4" y="883.67" class="st20" v:langID="12298"><v:paragraph/><v:tabList/>Rx</text>		</g>
+		<g id="shape435-1035" v:mID="435" v:groupContext="shape" transform="translate(416.326,-609.857)">
+			<title>Hoja.435</title>
+			<path d="M0 884.36 L26.93 884.36 L26.93 837.29 L0 837.29 L0 884.36 Z" class="st29"/>
+		</g>
+		<g id="shape436-1037" v:mID="436" v:groupContext="shape" transform="translate(416.099,1118.35) rotate(180)">
+			<title>Hoja.436</title>
+			<path d="M0 884.36 L79.7 884.36" class="st10"/>
+		</g>
+		<g id="shape437-1040" v:mID="437" v:groupContext="shape" transform="translate(416.099,1130.1) rotate(180)">
+			<title>Hoja.437</title>
+			<path d="M0 884.36 L79.7 884.36" class="st10"/>
+		</g>
+		<g id="shape438-1043" v:mID="438" v:groupContext="shape" transform="translate(416.099,1141.35) rotate(180)">
+			<title>Hoja.438</title>
+			<path d="M0 884.36 L79.7 884.36" class="st10"/>
+		</g>
+		<g id="shape439-1046" v:mID="439" v:groupContext="shape" transform="translate(416.296,1153.18) rotate(180)">
+			<title>Hoja.439</title>
+			<path d="M0 884.36 L79.7 884.36" class="st10"/>
+		</g>
+		<g id="shape440-1049" v:mID="440" v:groupContext="shape" transform="translate(572.064,-374.173)">
+			<title>Hoja.440</title>
+			<desc>Channel 1 Control</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="31.3862" cy="872.312" width="62.78" height="24.0945"/>
+			<rect x="0" y="860.265" width="62.7723" height="24.0945" class="st11"/>
+			<text x="7.51" y="869.01" class="st26" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>Channel  1 <tspan
+						x="14.4" dy="1.2em" class="st17">Control</tspan></text>		</g>
+		<g id="shape441-1053" v:mID="441" v:groupContext="shape" transform="translate(700.949,-300.17)">
+			<title>Hoja.441</title>
+			<desc>Channel 2 Control</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="31.3862" cy="872.312" width="62.78" height="24.0945"/>
+			<rect x="0" y="860.265" width="62.7723" height="24.0945" class="st11"/>
+			<text x="7.51" y="869.01" class="st26" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>Channel  2 <tspan
+						x="14.4" dy="1.2em" class="st17">Control</tspan></text>		</g>
+		<g id="shape442-1057" v:mID="442" v:groupContext="shape" transform="translate(827.68,-226.479)">
+			<title>Hoja.442</title>
+			<desc>Channel 3 Control</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="31.3862" cy="872.312" width="62.78" height="24.0945"/>
+			<rect x="0" y="860.265" width="62.7723" height="24.0945" class="st11"/>
+			<text x="7.51" y="869.01" class="st26" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>Channel  3 <tspan
+						x="14.4" dy="1.2em" class="st17">Control</tspan></text>		</g>
+		<g id="shape443-1061" v:mID="443" v:groupContext="shape" transform="translate(1027.45,-324.567)">
+			<title>Hoja.443</title>
+			<desc>Channel Control</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="46.5907" cy="872.312" width="93.19" height="24.0945"/>
+			<rect x="0" y="860.265" width="93.1814" height="24.0945" class="st11"/>
+			<text x="4" y="875.61" class="st26" v:langID="12298"><v:paragraph/><v:tabList/>Channel Control</text>		</g>
+		<g id="shape445-1064" v:mID="445" v:groupContext="shape" transform="translate(1395.85,775.59) rotate(90)">
+			<title>Hoja.445</title>
+			<path d="M0 884.36 L14.59 884.36 L14.59 856.85 L0 856.85 L0 884.36 Z" class="st29"/>
+		</g>
+		<g id="shape446-1066" v:mID="446" v:groupContext="shape" transform="translate(511.331,-97.7912)">
+			<title>Hoja.446</title>
+			<desc>INT</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="13.7561" cy="880.674" width="27.52" height="7.37008"/>
+			<rect x="0" y="876.989" width="27.5122" height="7.37008" class="st11"/>
+			<text x="7.36" y="883.37" class="st12" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>INT</text>		</g>
+		<g id="shape447-1069" v:mID="447" v:groupContext="shape" transform="translate(473.303,-101.046)">
+			<title>Hoja.447</title>
+			<path d="M37.7 884.36 L0 884.36 L0 420.8" class="st4"/>
+		</g>
+		<g id="shape449-1074" v:mID="449" v:groupContext="shape" transform="translate(-407.121,314.046) rotate(-90)">
+			<title>Hoja.449</title>
+			<desc>MCU INT</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="24.0945" cy="880.674" width="48.19" height="7.37008"/>
+			<rect x="0" y="876.989" width="48.189" height="7.37008" class="st11"/>
+			<text x="5.58" y="883.67" class="st20" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>MCU INT</text>		</g>
+		<g id="shape450-1077" v:mID="450" v:groupContext="shape" transform="translate(504.12,-739.951)">
+			<title>Hoja.450</title>
+			<desc>1.3&#34; IPS 240x240</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="24.0945" cy="874.359" width="48.19" height="20"/>
+			<rect x="0" y="864.359" width="48.189" height="20" class="st11"/>
+			<text x="11.61" y="871.96" class="st43" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>1.3&#34; IPS<v:newlineChar/><tspan
+						x="10.2" dy="1.2em" class="st17">240x240</tspan></text>		</g>
+		<g id="shape451-1081" v:mID="451" v:groupContext="shape" transform="translate(631.978,-739.951)">
+			<title>Hoja.451</title>
+			<desc>1.3&#34; IPS 240x240</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="24.0945" cy="874.359" width="48.19" height="20"/>
+			<rect x="0" y="864.359" width="48.189" height="20" class="st11"/>
+			<text x="11.61" y="871.96" class="st43" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>1.3&#34; IPS<v:newlineChar/><tspan
+						x="10.2" dy="1.2em" class="st17">240x240</tspan></text>		</g>
+		<g id="shape452-1085" v:mID="452" v:groupContext="shape" transform="translate(760.102,-740.801)">
+			<title>Hoja.452</title>
+			<desc>1.3&#34; IPS 240x240</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="24.0945" cy="874.359" width="48.19" height="20"/>
+			<rect x="0" y="864.359" width="48.189" height="20" class="st11"/>
+			<text x="11.61" y="871.96" class="st43" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>1.3&#34; IPS<v:newlineChar/><tspan
+						x="10.2" dy="1.2em" class="st17">240x240</tspan></text>		</g>
+		<g id="shape453-1089" v:mID="453" v:groupContext="shape" transform="translate(529.043,-397.834)">
+			<title>Hoja.453</title>
+			<desc>VBUS</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="16.3169" cy="880.674" width="32.64" height="7.37008"/>
+			<rect x="0" y="876.989" width="32.6339" height="7.37008" class="st11"/>
+			<text x="4.93" y="883.67" class="st20" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>VBUS</text>		</g>
+		<g id="shape454-1092" v:mID="454" v:groupContext="shape" transform="translate(557.89,-401.519)">
+			<title>Hoja.454</title>
+			<path d="M0 884.36 L8.45 884.36" class="st4"/>
+		</g>
+		<g id="shape455-1097" v:mID="455" v:groupContext="shape" transform="translate(656.602,-326.684)">
+			<title>Hoja.455</title>
+			<desc>VBUS</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="16.3169" cy="880.674" width="32.64" height="7.37008"/>
+			<rect x="0" y="876.989" width="32.6339" height="7.37008" class="st11"/>
+			<text x="4.93" y="883.67" class="st20" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>VBUS</text>		</g>
+		<g id="shape456-1100" v:mID="456" v:groupContext="shape" transform="translate(686.27,-330.369)">
+			<title>Hoja.456</title>
+			<path d="M0 884.36 L8.96 884.36" class="st4"/>
+		</g>
+		<g id="shape457-1105" v:mID="457" v:groupContext="shape" transform="translate(784.161,-253.267)">
+			<title>Hoja.457</title>
+			<desc>VBUS</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="16.3169" cy="880.674" width="32.64" height="7.37008"/>
+			<rect x="0" y="876.989" width="32.6339" height="7.37008" class="st11"/>
+			<text x="4.93" y="883.67" class="st20" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>VBUS</text>		</g>
+		<g id="shape458-1108" v:mID="458" v:groupContext="shape" transform="translate(813.506,-256.952)">
+			<title>Hoja.458</title>
+			<path d="M0 884.36 L8.45 884.36" class="st4"/>
+		</g>
+		<g id="shape459-1113" v:mID="459" v:groupContext="shape" transform="translate(634.836,-401.519) rotate(4.60954E-06)">
+			<title>Hoja.459</title>
+			<path d="M0 884.36 L336.45 884.36" class="st10"/>
+		</g>
+		<g id="shape460-1116" v:mID="460" v:groupContext="shape" transform="translate(763.722,-330.369)">
+			<title>Hoja.460</title>
+			<path d="M0 884.36 L207.56 884.36" class="st10"/>
+		</g>
+		<g id="shape461-1119" v:mID="461" v:groupContext="shape" transform="translate(890.452,-256.952)">
+			<title>Hoja.461</title>
+			<path d="M0 884.36 L80.83 884.36" class="st10"/>
+		</g>
+		<g id="shape214-1122" v:mID="214" v:groupContext="shape" transform="translate(968.034,-215.479)">
+			<title>Hoja.214</title>
+			<rect x="0" y="834.383" width="21.8043" height="49.9765" class="st1"/>
+		</g>
+		<g id="shape389-1124" v:mID="389" v:groupContext="shape" transform="translate(973.514,-219.131)">
+			<title>Hoja.389</title>
+			<rect x="0" y="842.071" width="6.0905" height="42.2878" class="st44"/>
+		</g>
+		<g id="shape464-1126" v:mID="464" v:groupContext="shape" transform="translate(968.165,-288.133)">
+			<title>Hoja.464</title>
+			<rect x="0" y="834.383" width="21.8043" height="49.9765" class="st1"/>
+		</g>
+		<g id="shape465-1128" v:mID="465" v:groupContext="shape" transform="translate(973.696,-291.785)">
+			<title>Hoja.465</title>
+			<rect x="0" y="842.071" width="6.0905" height="42.2878" class="st44"/>
+		</g>
+		<g id="shape467-1130" v:mID="467" v:groupContext="shape" transform="translate(968.034,-359.188)">
+			<title>Hoja.467</title>
+			<rect x="0" y="834.383" width="21.8043" height="49.9765" class="st1"/>
+		</g>
+		<g id="shape468-1132" v:mID="468" v:groupContext="shape" transform="translate(973.514,-362.84)">
+			<title>Hoja.468</title>
+			<rect x="0" y="842.071" width="6.0905" height="42.2878" class="st44"/>
+		</g>
+		<g id="shape469-1134" v:mID="469" v:groupContext="shape" transform="translate(1245.72,-278.298)">
+			<title>Hoja.469</title>
+			<desc>CHx POWER</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="25.5118" cy="874.359" width="51.03" height="20"/>
+			<rect x="0" y="864.359" width="51.0236" height="20" class="st11"/>
+			<text x="4" y="870.76" class="st27" v:langID="12298"><v:paragraph/><v:tabList/>CHx <tspan x="4" dy="1.2em" class="st17">POWER</tspan></text>		</g>
+		<g id="shape470-1138" v:mID="470" v:groupContext="shape" transform="translate(605.68,-529.778)">
+			<title>Hoja.470</title>
+			<desc>Board to board flat cable</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="57.8184" cy="880.657" width="115.64" height="7.4053"/>
+			<rect x="0" y="876.954" width="115.637" height="7.4053" class="st11"/>
+			<text x="4" y="883.66" class="st19" v:langID="12298"><v:paragraph/><v:tabList/>Board to board flat cable</text>		</g>
+		<g id="shape471-1141" v:mID="471" v:groupContext="shape" transform="translate(134.212,-157.608)">
+			<title>Hoja.471</title>
+			<path d="M3.86 884.36 L0 884.36 L0 872.76 L4.25 872.76" class="st45"/>
+		</g>
+		<g id="shape472-1144" v:mID="472" v:groupContext="shape" transform="translate(152.07,1605.31) rotate(180)">
+			<title>Hoja.472</title>
+			<path d="M0 884.36 L17.01 884.36" class="st46"/>
+		</g>
+		<g id="shape473-1147" v:mID="473" v:groupContext="shape" transform="translate(1135.54,-283.21)">
+			<title>Hoja.473</title>
+			<desc>0.02R</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="29.0551" cy="879.413" width="58.12" height="9.8929"/>
+			<rect x="0" y="874.466" width="58.1102" height="9.8929" class="st11"/>
+			<text x="19.65" y="881.81" class="st42" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>0.02R</text>		</g>
+		<g id="shape474-1150" v:mID="474" v:groupContext="shape" transform="translate(946.09,-583.503)">
+			<title>Hoja.474</title>
+			<desc>3V3</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="12.0472" cy="880.674" width="24.1" height="7.37008"/>
+			<rect x="0" y="876.989" width="24.0945" height="7.37008" class="st11"/>
+			<text x="4.82" y="883.37" class="st12" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>3V3</text>		</g>
+		<g id="shape475-1153" v:mID="475" v:groupContext="shape" transform="translate(967.148,-587.198)">
+			<title>Hoja.475</title>
+			<path d="M0 884.36 L5.87 884.36" class="st4"/>
+		</g>
+		<g id="shape478-1158" v:mID="478" v:groupContext="shape" transform="translate(153.35,-492.208)">
+			<title>Hoja.478</title>
+			<desc>Base Board</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="48.189" cy="871.093" width="96.38" height="26.5322"/>
+			<rect x="0" y="857.827" width="96.378" height="26.5322" class="st11"/>
+			<text x="4" y="874.99" class="st47" v:langID="12298"><v:paragraph/><v:tabList/>Base Board</text>		</g>
+		<g id="shape479-1161" v:mID="479" v:groupContext="shape" transform="translate(153.487,-807.874)">
+			<title>Hoja.479</title>
+			<desc>Interface Board</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="48.189" cy="871.093" width="96.38" height="26.5322"/>
+			<rect x="0" y="857.827" width="96.378" height="26.5322" class="st11"/>
+			<text x="4" y="874.99" class="st47" v:langID="12298"><v:paragraph/><v:tabList/>Interface Board</text>		</g>
+		<g id="shape480-1164" v:mID="480" v:groupContext="shape" transform="translate(526.965,-817.104)">
+			<title>Hoja.480</title>
+			<desc>CH1 Power/Data switch</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="41.7338" cy="880.657" width="83.47" height="7.4053"/>
+			<rect x="0" y="876.954" width="83.4677" height="7.4053" class="st11"/>
+			<text x="34.25" y="877.96" class="st33" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>CH1<v:newlineChar/><tspan
+						x="6.89" dy="1.2em" class="st17">Power/Data switch</tspan></text>		</g>
+		<g id="shape481-1168" v:mID="481" v:groupContext="shape" transform="translate(653.485,-817.477)">
+			<title>Hoja.481</title>
+			<desc>CH2 Power/Data switch</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="41.7338" cy="880.657" width="83.47" height="7.4053"/>
+			<rect x="0" y="876.954" width="83.4677" height="7.4053" class="st11"/>
+			<text x="34.25" y="877.96" class="st33" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>CH2<v:newlineChar/><tspan
+						x="6.89" dy="1.2em" class="st17">Power/Data switch</tspan></text>		</g>
+		<g id="shape482-1172" v:mID="482" v:groupContext="shape" transform="translate(781.71,-817.477)">
+			<title>Hoja.482</title>
+			<desc>CH3 Power/Data switch</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="41.7338" cy="880.657" width="83.47" height="7.4053"/>
+			<rect x="0" y="876.954" width="83.4677" height="7.4053" class="st11"/>
+			<text x="34.25" y="877.96" class="st33" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>CH3<v:newlineChar/><tspan
+						x="6.89" dy="1.2em" class="st17">Power/Data switch</tspan></text>		</g>
+		<g id="shape484-1176" v:mID="484" v:groupContext="shape" transform="translate(-438.192,314.309) rotate(-90)">
+			<title>Hoja.484</title>
+			<desc>ADC</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="13.7561" cy="880.674" width="27.52" height="7.37008"/>
+			<rect x="0" y="876.989" width="27.5122" height="7.37008" class="st11"/>
+			<text x="4" y="883.67" class="st20" v:langID="12298"><v:paragraph/><v:tabList/>ADC</text>		</g>
+		<g id="shape485-1179" v:mID="485" v:groupContext="shape" transform="translate(984.472,-759.685)">
+			<title>Hoja.485</title>
+			<desc>USB INSIGHT HUB BLOCK DIAGRAM</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="165.118" cy="856.013" width="330.24" height="56.6929"/>
+			<rect x="0" y="827.666" width="330.236" height="56.6929" class="st11"/>
+			<text x="76.2" y="848.81" class="st48" v:langID="12298"><v:paragraph v:horizAlign="1"/><v:tabList/>USB INSIGHT HUB<v:newlineChar/><tspan
+						x="79.38" dy="1.2em" class="st17">BLOCK DIAGRAM</tspan></text>		</g>
+	</g>
+</svg>
