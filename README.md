@@ -1,6 +1,10 @@
 # USB Insight HUB Hardware
 >[!IMPORTANT]
->The information provided is provisional as is very likely that changes may be necessary in Hardware to comply with the production process or specific corrections/improvements before production.
+>The information provided is provisional as is very likely that changes may be necessary in Hardware to comply with the production process or other specific corrections/improvements.
+
+>[!Note]
+>The software will be released timely after proper code organization/optimization.
+
 ## Block Diagram
 ![Block Diagram](https://github.com/Aeriosolutions/USB-Insight-HUB-Hardware/blob/main/Images/Block%20Diagram%20B0%20landscape.svg)
 ## Main components
