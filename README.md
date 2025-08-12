@@ -41,7 +41,7 @@
 ### Host-Computer Compatibility
 - Readily available Windows, Linux, and MacOS drivers for the USB Hub chip and the ESP32-S3 microprocessor.
 - USB property-extraction software for Windows
-- Work-in-progress USB property-extraction software for Linux and MacOS (available for download shortly after we ship to backers)
+- Work-in-progress USB property-extraction software for Linux and MacOS
 ### Other Features
 - Downstream ports are spaced further apart than they are on most hubs
 - Acrylic protection for the PCBs and displays
