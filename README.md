@@ -6,6 +6,9 @@
 >[!Note]
 >The firmware and software is published in the [USB-Insight-HUB-Software](https://github.com/Aeriosolutions/USB-Insight-HUB-Software) repository.
 
+>[!Note]
+>**User manual** and **installer** for Enumeration Extraction Agent are in [USB-Insight-HUB](https://github.com/Aeriosolutions/USB-Insight-HUB/tree/main) repository.
+
 ## Block Diagram
 ![Block Diagram](https://github.com/Aeriosolutions/USB-Insight-HUB-Hardware/blob/main/Images/Block%20Diagram%20B0%20landscape.svg)
 ## Main components
